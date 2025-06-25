@@ -4,7 +4,7 @@ Tony Sebastian | Full-Stack Developer | AI Automation | Cybersecurity | Open Sou
 ![Header](assets/header.png)
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/node.js" alt="Node.js" width="32" height="32"/>
+  <img src="https://cdn.simpleicons.org/node-dot-js" alt="Node.js" width="32" height="32"/>
   <img src="https://cdn.simpleicons.org/react" alt="React" width="32" height="32"/>
   <img src="https://cdn.simpleicons.org/python" alt="Python" width="32" height="32"/>
   <img src="https://cdn.simpleicons.org/docker" alt="Docker" width="32" height="32"/>
@@ -12,12 +12,25 @@ Tony Sebastian | Full-Stack Developer | AI Automation | Cybersecurity | Open Sou
   <img src="https://cdn.simpleicons.org/mysql" alt="MySQL" width="32" height="32"/>
   <img src="https://cdn.simpleicons.org/tailwindcss" alt="Tailwind CSS" width="32" height="32"/>
   <img src="https://cdn.simpleicons.org/typescript" alt="TypeScript" width="32" height="32"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/tonysebastine"><img src="https://cdn.simpleicons.org/github" alt="GitHub" width="32"/></a>
-  <a href="https://linkedin.com/in/tonysebastine"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="32"/></a>
-  <a href="https://instagram.com/thb_tz"><img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="32"/></a>
+  <img src="https://cdn.simpleicons.org/next-dot-js" alt="Next.js" width="32" height="32"/>
+  <img src="https://cdn.simpleicons.org/vue-dot-js" alt="Vue.js" width="32" height="32"/>
+  <img src="https://cdn.simpleicons.org/inertia" alt="Inertia.js" width="32" height="32"/>
+  <img src="https://cdn.simpleicons.org/express" alt="Express" width="32" height="32"/>
+  <img src="https://cdn.simpleicons.org/php" alt="PHP" width="32" height="32"/>
+  <img src="https://cdn.simpleicons.org/laravel" alt="Laravel" width="32" height="32"/>
+  <img src="https://cdn.simpleicons.org/codeigniter" alt="CodeIgniter" width="32" height="32"/>
+  <img src="https://cdn.simpleicons.org/supabase" alt="Supabase" width="32" height="32"/>
+  <img src="https://cdn.simpleicons.org/nginx" alt="Nginx" width="32" height="32"/>
+  <img src="https://cdn.simpleicons.org/apache" alt="Apache" width="32" height="32"/>
+  <img src="https://cdn.simpleicons.org/kalilinux" alt="Kali Linux" width="32" height="32"/>
+  <img src="https://cdn.simpleicons.org/debian" alt="Debian" width="32" height="32"/>
+  <img src="https://cdn.simpleicons.org/windows" alt="Windows" width="32" height="32"/>
+  <img src="https://cdn.simpleicons.org/apple" alt="macOS" width="32" height="32"/>
+  <img src="https://cdn.simpleicons.org/zsh" alt="zsh" width="32" height="32"/>
+  <img src="https://cdn.simpleicons.org/github" alt="GitHub" width="32" height="32"/>
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="32" height="32"/>
+  <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="32" height="32"/>
+  <img src="https://cdn.simpleicons.org/tryhackme" alt="TryHackMe" width="32" height="32"/>
 </p>
 
 # 👋 Hey, I'm Tony Sebastian (tonysebastine)
