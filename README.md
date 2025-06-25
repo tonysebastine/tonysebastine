@@ -103,39 +103,3 @@ Feel free to reach out for freelance work, collaborations, or just to connect!
 
 Thanks for stopping by! 👋
 
-<!--
-JSON-LD for AI/SEO crawlers
--->
-```json
-{
-  "@context": "https://schema.org",
-  "@type": "Person",
-  "name": "Tony Sebastian",
-  "url": "https://github.com/tonysebastine",
-  "sameAs": [
-    "https://thbtz.in",
-    "https://www.linkedin.com/in/tonysebastine",
-    "https://tryhackme.com/p/tonysebastine"
-  ],
-  "jobTitle": "Full-Stack Web Developer, Cybersecurity Enthusiast",
-  "alumniOf": "Self-taught",
-  "knowsAbout": [
-    "AI Automation",
-    "Cybersecurity",
-    "Full-Stack Development",
-    "Open Source",
-    "Prompt Engineering",
-    "Node.js",
-    "Next.js",
-    "Python",
-    "Linux",
-    "Docker",
-    "MongoDB",
-    "MySQL",
-    "Tailwind",
-    "React",
-    "TypeScript"
-  ],
-  "email": "tony@thbz.in"
-}
-```
