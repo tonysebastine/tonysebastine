@@ -3,35 +3,81 @@ Tony Sebastian | Full-Stack Developer | AI Automation | Cybersecurity | Open Sou
 -->
 ![Header](assets/header.png)
 
-<p align="center">
-  <img src="https://cdn.simpleicons.org/node-dot-js" alt="Node.js" width="32" height="32"/>
-  <img src="https://cdn.simpleicons.org/react" alt="React" width="32" height="32"/>
-  <img src="https://cdn.simpleicons.org/python" alt="Python" width="32" height="32"/>
-  <img src="https://cdn.simpleicons.org/docker" alt="Docker" width="32" height="32"/>
-  <img src="https://cdn.simpleicons.org/mongodb" alt="MongoDB" width="32" height="32"/>
-  <img src="https://cdn.simpleicons.org/mysql" alt="MySQL" width="32" height="32"/>
-  <img src="https://cdn.simpleicons.org/tailwindcss" alt="Tailwind CSS" width="32" height="32"/>
-  <img src="https://cdn.simpleicons.org/typescript" alt="TypeScript" width="32" height="32"/>
+---
+
+## 🛠️ Tech Stack & Tools
+
+### Frontend
+<p align="left">
+  <img src="https://cdn.simpleicons.org/html5" alt="HTML5" width="32" height="32"/>
   <img src="https://cdn.simpleicons.org/next-dot-js" alt="Next.js" width="32" height="32"/>
-  <img src="https://cdn.simpleicons.org/vue-dot-js" alt="Vue.js" width="32" height="32"/>
-  <img src="https://cdn.simpleicons.org/inertia" alt="Inertia.js" width="32" height="32"/>
+  <img src="https://cdn.simpleicons.org/tailwindcss" alt="Tailwind CSS" width="32" height="32"/>
+</p>
+
+### Backend
+<p align="left">
+  <img src="https://cdn.simpleicons.org/node-dot-js" alt="Node.js" width="32" height="32"/>
   <img src="https://cdn.simpleicons.org/express" alt="Express" width="32" height="32"/>
   <img src="https://cdn.simpleicons.org/php" alt="PHP" width="32" height="32"/>
   <img src="https://cdn.simpleicons.org/laravel" alt="Laravel" width="32" height="32"/>
   <img src="https://cdn.simpleicons.org/codeigniter" alt="CodeIgniter" width="32" height="32"/>
+</p>
+
+### Databases
+<p align="left">
+  <img src="https://cdn.simpleicons.org/mongodb" alt="MongoDB" width="32" height="32"/>
+  <img src="https://cdn.simpleicons.org/mysql" alt="MySQL" width="32" height="32"/>
   <img src="https://cdn.simpleicons.org/supabase" alt="Supabase" width="32" height="32"/>
+</p>
+
+### DevOps & Tools
+<p align="left">
+  <img src="https://cdn.simpleicons.org/docker" alt="Docker" width="32" height="32"/>
   <img src="https://cdn.simpleicons.org/nginx" alt="Nginx" width="32" height="32"/>
   <img src="https://cdn.simpleicons.org/apache" alt="Apache" width="32" height="32"/>
+  <img src="https://cdn.simpleicons.org/github" alt="GitHub" width="32" height="32"/>
+  <img src="https://cdn.simpleicons.org/vscode" alt="VS Code" width="32" height="32"/>
+  <img src="https://cdn.simpleicons.org/zsh" alt="zsh" width="32" height="32"/>
+  ![WhatsApp Automation](https://img.shields.io/badge/WhatsApp%20Automation-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+  ![LilyGO + CC1101](https://img.shields.io/badge/LilyGO%20%2B%20CC1101-007ACC?style=for-the-badge)
+  ![Malayalam Voice-to-Text](https://img.shields.io/badge/Malayalam%20Voice--to--Text-FF9800?style=for-the-badge)
+</p>
+
+### Operating Systems
+<p align="left">
   <img src="https://cdn.simpleicons.org/kalilinux" alt="Kali Linux" width="32" height="32"/>
   <img src="https://cdn.simpleicons.org/debian" alt="Debian" width="32" height="32"/>
   <img src="https://cdn.simpleicons.org/windows" alt="Windows" width="32" height="32"/>
   <img src="https://cdn.simpleicons.org/apple" alt="macOS" width="32" height="32"/>
-  <img src="https://cdn.simpleicons.org/zsh" alt="zsh" width="32" height="32"/>
-  <img src="https://cdn.simpleicons.org/github" alt="GitHub" width="32" height="32"/>
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="32" height="32"/>
-  <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="32" height="32"/>
+</p>
+
+### Security & Pentesting
+<p align="left">
+  <img src="https://cdn.simpleicons.org/owasp" alt="OWASP" width="32" height="32"/>
+  <img src="https://cdn.simpleicons.org/nmap" alt="Nmap" width="32" height="32"/>
   <img src="https://cdn.simpleicons.org/tryhackme" alt="TryHackMe" width="32" height="32"/>
 </p>
+
+### AI & Automation
+<p align="left">
+  <img src="https://cdn.simpleicons.org/openai" alt="OpenAI" width="32" height="32"/>
+  <img src="https://cdn.simpleicons.org/githubcopilot" alt="GitHub Copilot" width="32" height="32"/>
+  <img src="https://cdn.simpleicons.org/python" alt="Python" width="32" height="32"/>
+  ![DeepSeek](https://img.shields.io/badge/DeepSeek-4B8DF8?style=for-the-badge)
+  ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge)
+  ![Bolt](https://img.shields.io/badge/Bolt-FFEB3B?style=for-the-badge)
+  ![Cursor](https://img.shields.io/badge/Cursor-00B8D9?style=for-the-badge)
+</p>
+
+### Social & Community
+<p align="left">
+  <a href="https://github.com/tonysebastine"><img src="https://cdn.simpleicons.org/github" alt="GitHub" width="32"/></a>
+  <a href="https://linkedin.com/in/tonysebastine"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="32"/></a>
+  <a href="https://instagram.com/thb_tz"><img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="32"/></a>
+  <a href="https://tryhackme.com/p/tonysebastine"><img src="https://cdn.simpleicons.org/tryhackme" alt="TryHackMe" width="32"/></a>
+</p>
+
+---
 
 # 👋 Hey, I'm Tony Sebastian (tonysebastine)
 
@@ -57,7 +103,7 @@ Self‑taught full‑stack developer and cybersecurity nerd from Kochi, Kerala. 
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** HTML, Next.js, Vue.js, Tailwind CSS, Inertia.js  
+- **Frontend:** HTML, Next.js, Tailwind CSS  
 - **Backend:** Node.js/Express, PHP (Laravel, CodeIgniter)  
 - **Databases:** MongoDB Atlas, MySQL  
 - **AI & Tools:** Copilot, Gemini, ChatGPT, DeepSeek, Cursor, Bolt, VS Code  
