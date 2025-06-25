@@ -2,6 +2,24 @@
 Tony Sebastian | Full-Stack Developer | AI Automation | Cybersecurity | Open Source | Next.js | Node.js | AI Tools | Kerala | Portfolio | GitHub Profile | OpenSentinel | Automation | Security | Deep Learning | NLP | Prompt Engineering
 -->
 ![Header](assets/header.png)
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/node.js" alt="Node.js" width="32" height="32"/>
+  <img src="https://cdn.simpleicons.org/react" alt="React" width="32" height="32"/>
+  <img src="https://cdn.simpleicons.org/python" alt="Python" width="32" height="32"/>
+  <img src="https://cdn.simpleicons.org/docker" alt="Docker" width="32" height="32"/>
+  <img src="https://cdn.simpleicons.org/mongodb" alt="MongoDB" width="32" height="32"/>
+  <img src="https://cdn.simpleicons.org/mysql" alt="MySQL" width="32" height="32"/>
+  <img src="https://cdn.simpleicons.org/tailwindcss" alt="Tailwind CSS" width="32" height="32"/>
+  <img src="https://cdn.simpleicons.org/typescript" alt="TypeScript" width="32" height="32"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/tonysebastine"><img src="https://cdn.simpleicons.org/github" alt="GitHub" width="32"/></a>
+  <a href="https://linkedin.com/in/tonysebastine"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="32"/></a>
+  <a href="https://instagram.com/thb_tz"><img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="32"/></a>
+</p>
+
 # 👋 Hey, I'm Tony Sebastian (tonysebastine)
 
 **Full‑Stack Web Developer | Cybersecurity Enthusiast | AI‑Powered Maker**
@@ -98,6 +116,10 @@ Feel free to reach out for freelance work, collaborations, or just to connect!
 - LinkedIn: [linkedin.com/in/tonysebastine](https://www.linkedin.com/in/tonysebastine)
 
 ---
+
+### 🏅 Badges & Achievements
+
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/tonysebastine.png)](https://tryhackme.com/p/tonysebastine)
 
 **"Design with purpose. Code clearly. Secure thoughtfully."**
 
