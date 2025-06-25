@@ -40,7 +40,6 @@ Tony Sebastian | Full-Stack Developer | AI Automation | Cybersecurity | Open Sou
   <img src="https://cdn.simpleicons.org/zsh" alt="zsh" width="32" height="32"/>
   ![WhatsApp Automation](https://img.shields.io/badge/WhatsApp%20Automation-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
   ![LilyGO + CC1101](https://img.shields.io/badge/LilyGO%20%2B%20CC1101-007ACC?style=for-the-badge)
-  ![Malayalam Voice-to-Text](https://img.shields.io/badge/Malayalam%20Voice--to--Text-FF9800?style=for-the-badge)
 </p>
 
 ### Operating Systems
@@ -110,7 +109,7 @@ Self‑taught full‑stack developer and cybersecurity nerd from Kochi, Kerala. 
 - **Hosting:** cPanel, Plesk, Apache/Nginx, VPS/Dedicated  
 - **OS & Shell:** Kali, Debian, Windows, macOS, zsh  
 - **Security/Ops:** PHP‑FPM tuning, `top`, OWASP ZAP/Nmap  
-- **Experimental:** LilyGO + CC1101 (IoT radio modules for wireless experiments), WhatsApp automation, Malayalam voice‑to‑text
+- **Experimental:** LilyGO + CC1101 (IoT radio modules for wireless experiments), WhatsApp automation
 
 ---
 
@@ -183,40 +182,3 @@ Feel free to reach out for freelance work, collaborations, or just to connect!
 **"Design with purpose. Code clearly. Secure thoughtfully."**
 
 Thanks for stopping by! 👋
-
-<!--
-JSON-LD for AI/SEO crawlers
--->
-```json
-{
-  "@context": "https://schema.org",
-  "@type": "Person",
-  "name": "Tony Sebastian",
-  "url": "https://github.com/tonysebastine",
-  "sameAs": [
-    "https://thbtz.in",
-    "https://www.linkedin.com/in/tonysebastine",
-    "https://tryhackme.com/p/tonysebastine"
-  ],
-  "jobTitle": "Full-Stack Web Developer, Cybersecurity Enthusiast",
-  "alumniOf": "Self-taught",
-  "knowsAbout": [
-    "AI Automation",
-    "Cybersecurity",
-    "Full-Stack Development",
-    "Open Source",
-    "Prompt Engineering",
-    "Node.js",
-    "Next.js",
-    "Python",
-    "Linux",
-    "Docker",
-    "MongoDB",
-    "MySQL",
-    "Tailwind",
-    "React",
-    "TypeScript"
-  ],
-  "email": "tony@thbz.in"
-}
-```
