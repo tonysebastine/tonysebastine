@@ -1,7 +1,7 @@
 <!--
 Tony Sebastian | Full-Stack Developer | AI Automation | Cybersecurity | Open Source | Next.js | Node.js | AI Tools | Kerala | Portfolio | GitHub Profile | OpenSentinel | Automation | Security | Deep Learning | NLP | Prompt Engineering
 -->
-![Header](assets/your-header-image-name.png)
+![Header](assets/header.png)
 # 👋 Hey, I'm Tony Sebastian (tonysebastine)
 
 **Full‑Stack Web Developer | Cybersecurity Enthusiast | AI‑Powered Maker**
