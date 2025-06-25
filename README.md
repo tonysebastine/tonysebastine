@@ -3,7 +3,7 @@ Tony Sebastian | Full-Stack Developer | AI Automation | Cybersecurity | Open Sou
 -->
 ![Header](assets/header.png)
 
----
+<!-- ---
 
 ## 🛠️ Tech Stack & Tools
 
@@ -74,7 +74,7 @@ Tony Sebastian | Full-Stack Developer | AI Automation | Cybersecurity | Open Sou
   <a href="https://tryhackme.com/p/tonysebastine"><!-- Add tryhackme.svg if available --></a>
 </p>
 
----
+--- -->
 
 # 👋 Hey, I'm Tony Sebastian (tonysebastine)
 
