@@ -1,16 +1,20 @@
+<!--
+Tony Sebastian | Full-Stack Developer | AI Automation | Cybersecurity | Open Source | Next.js | Node.js | AI Tools | Kerala | Portfolio | GitHub Profile | OpenSentinel | Automation | Security | Deep Learning | NLP | Prompt Engineering
+-->
+![Header](assets/your-header-image-name.png)
 # 👋 Hey, I'm Tony Sebastian (tonysebastine)
 
 **Full‑Stack Web Developer | Cybersecurity Enthusiast | AI‑Powered Maker**
 
 <!-- AI & Dev Tool Logos -->
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubcopilot/githubcopilot-original.svg" alt="GitHub Copilot Logo" width="40" height="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" alt="OpenAI Logo" width="40" height="40">
-  <img src="https://www.gstatic.com/images/branding/product/1x/ai_64dp.png" alt="Google Gemini Logo" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/DenverCoder1/custom-icon-badges/main/badges/deepseek.svg" alt="DeepSeek Logo" width="40" height="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cursor/cursor-original.svg" alt="Cursor Logo" width="40" height="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bolt/bolt-original.svg" alt="Bolt Logo" width="40" height="40">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code Logo" width="40" height="40">
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
+  <img src="assets/githubcopilot-original.svg" alt="GitHub Copilot Logo" width="40" height="40">
+  <img src="assets/openai-original.svg" alt="OpenAI Logo" width="40" height="40">
+  <img src="assets/google-gemini.png" alt="Google Gemini Logo" width="40" height="40">
+  <img src="assets/deepseek.svg" alt="DeepSeek Logo" width="40" height="40">
+  <img src="assets/cursor-original.svg" alt="Cursor Logo" width="40" height="40">
+  <img src="assets/bolt-original.svg" alt="Bolt Logo" width="40" height="40">
+  <img src="assets/vscode-original.svg" alt="VS Code Logo" width="40" height="40">
 </p>
 
 ---
@@ -79,15 +83,59 @@ An AI-driven pentesting platform with:
 
 ---
 
+## 🤖 Fun AI Fact
+
+Did you know?
+I regularly experiment with the latest AI models and automation tools, integrating them into real-world security and productivity solutions. My projects often combine AI (like Gemini, ChatGPT, DeepSeek) with custom code to create unique, self-hosted platforms. If you're interested in AI-driven automation, let's connect!
+
+---
+
 ## 📬 Contact
 
 Feel free to reach out for freelance work, collaborations, or just to connect!
 
-- Email: tony@thbtz.in
+- Email: tony [at] thbtz [dot] in
 - LinkedIn: [linkedin.com/in/tonysebastine](https://www.linkedin.com/in/tonysebastine)
 
 ---
 
-**“Design with purpose. Code clearly. Secure thoughtfully.”**
+**"Design with purpose. Code clearly. Secure thoughtfully."**
 
 Thanks for stopping by! 👋
+
+<!--
+JSON-LD for AI/SEO crawlers
+-->
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Tony Sebastian",
+  "url": "https://github.com/tonysebastine",
+  "sameAs": [
+    "https://thbtz.in",
+    "https://www.linkedin.com/in/tonysebastine",
+    "https://tryhackme.com/p/tonysebastine"
+  ],
+  "jobTitle": "Full-Stack Web Developer, Cybersecurity Enthusiast",
+  "alumniOf": "Self-taught",
+  "knowsAbout": [
+    "AI Automation",
+    "Cybersecurity",
+    "Full-Stack Development",
+    "Open Source",
+    "Prompt Engineering",
+    "Node.js",
+    "Next.js",
+    "Python",
+    "Linux",
+    "Docker",
+    "MongoDB",
+    "MySQL",
+    "Tailwind",
+    "React",
+    "TypeScript"
+  ],
+  "email": "tony@thbz.in"
+}
+```
