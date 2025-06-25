@@ -9,67 +9,67 @@ Tony Sebastian | Full-Stack Developer | AI Automation | Cybersecurity | Open Sou
 
 ### Frontend
 <p align="left">
-  <img src="assets/html5.svg" alt="HTML5" width="32" height="32"/>
-  <img src="assets/nextjs.svg" alt="Next.js" width="32" height="32"/>
-  <img src="assets/tailwindcss.svg" alt="Tailwind CSS" width="32" height="32"/>
+  <img src="assets/svg/html5.svg" alt="HTML5" width="32" height="32"/>
+  <img src="assets/svg/nextjs.svg" alt="Next.js" width="32" height="32"/>
+  <img src="assets/svg/tailwindcss.svg" alt="Tailwind CSS" width="32" height="32"/>
 </p>
 
 ### Backend
 <p align="left">
-  <img src="assets/nodejs.svg" alt="Node.js" width="32" height="32"/>
-  <img src="assets/express.svg" alt="Express" width="32" height="32"/>
-  <img src="assets/php.svg" alt="PHP" width="32" height="32"/>
-  <img src="assets/laravel.svg" alt="Laravel" width="32" height="32"/>
-  <img src="assets/codeigniter.svg" alt="CodeIgniter" width="32" height="32"/>
+  <img src="assets/svg/nodejs.svg" alt="Node.js" width="32" height="32"/>
+  <img src="assets/svg/express.svg" alt="Express" width="32" height="32"/>
+  <img src="assets/svg/php.svg" alt="PHP" width="32" height="32"/>
+  <img src="assets/svg/laravel.svg" alt="Laravel" width="32" height="32"/>
+  <img src="assets/svg/codeigniter.svg" alt="CodeIgniter" width="32" height="32"/>
 </p>
 
 ### Databases
 <p align="left">
-  <img src="assets/mongodb.svg" alt="MongoDB" width="32" height="32"/>
-  <img src="assets/mysql.svg" alt="MySQL" width="32" height="32"/>
-  <img src="assets/supabase.svg" alt="Supabase" width="32" height="32"/>
+  <img src="assets/svg/mongodb.svg" alt="MongoDB" width="32" height="32"/>
+  <img src="assets/svg/mysql.svg" alt="MySQL" width="32" height="32"/>
+  <img src="assets/svg/supabase.svg" alt="Supabase" width="32" height="32"/>
 </p>
 
 ### DevOps & Tools
 <p align="left">
-  <img src="assets/docker.svg" alt="Docker" width="32" height="32"/>
-  <img src="assets/nginx.svg" alt="Nginx" width="32" height="32"/>
-  <img src="assets/apache.svg" alt="Apache" width="32" height="32"/>
-  <img src="assets/github.svg" alt="GitHub" width="32" height="32"/>
-  <img src="assets/vscode.svg" alt="VS Code" width="32" height="32"/>
-  <img src="assets/zsh.svg" alt="zsh" width="32" height="32"/>
+  <img src="assets/svg/docker.svg" alt="Docker" width="32" height="32"/>
+  <img src="assets/svg/nginx.svg" alt="Nginx" width="32" height="32"/>
+  <img src="assets/svg/apache.svg" alt="Apache" width="32" height="32"/>
+  <img src="assets/svg/github.svg" alt="GitHub" width="32" height="32"/>
+  <img src="assets/svg/vscode.svg" alt="VS Code" width="32" height="32"/>
+  <img src="assets/svg/zsh.svg" alt="zsh" width="32" height="32"/>
   ![WhatsApp Automation](https://img.shields.io/badge/WhatsApp%20Automation-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-  <img src="assets/espressif.svg" alt="Espressif (LilyGO + CC1101)" width="32" height="32"/>
+  <img src="assets/svg/espressif.svg" alt="Espressif (LilyGO + CC1101)" width="32" height="32"/>
 </p>
 
 ### Operating Systems
 <p align="left">
-  <img src="assets/kalilinux.svg" alt="Kali Linux" width="32" height="32"/>
-  <img src="assets/debian.svg" alt="Debian" width="32" height="32"/>
-  <img src="assets/windows.svg" alt="Windows" width="32" height="32"/>
-  <img src="assets/apple.svg" alt="macOS" width="32" height="32"/>
-  <img src="centos.svg" alt="CentOS" width="32" height="32"/>
-  <img src="almalinux.svg" alt="AlmaLinux" width="32" height="32"/>
-  <img src="aapanel.svg" alt="aaPanel" width="32" height="32"/>
+  <img src="assets/svg/kalilinux.svg" alt="Kali Linux" width="32" height="32"/>
+  <img src="assets/svg/debian.svg" alt="Debian" width="32" height="32"/>
+  <img src="assets/svg/windows.svg" alt="Windows" width="32" height="32"/>
+  <img src="assets/svg/apple.svg" alt="macOS" width="32" height="32"/>
+  <img src="assets/svg/centos.svg" alt="CentOS" width="32" height="32"/>
+  <img src="assets/svg/almalinux.svg" alt="AlmaLinux" width="32" height="32"/>
+  <img src="assets/svg/aapanel.svg" alt="aaPanel" width="32" height="32"/>
 </p>
 
 ### Security & Pentesting
 <p align="left">
-  <img src="assets/owasp.svg" alt="OWASP" width="32" height="32"/>
-  <img src="assets/nmap.svg" alt="Nmap" width="32" height="32"/>
+  <img src="assets/svg/owasp.svg" alt="OWASP" width="32" height="32"/>
+  <img src="assets/svg/nmap.svg" alt="Nmap" width="32" height="32"/>
   <!-- Add tryhackme.svg if available -->
 </p>
 
 ### AI & Automation
 <p align="left">
-  <img src="assets/openai.svg" alt="OpenAI" width="32" height="32"/>
-  <img src="assets/python.svg" alt="Python" width="32" height="32"/>
+  <img src="assets/svg/openai.svg" alt="OpenAI" width="32" height="32"/>
+  <img src="assets/svg/python.svg" alt="Python" width="32" height="32"/>
   <!-- Add other AI tool SVGs if available -->
 </p>
 
 ### Social & Community
 <p align="left">
-  <a href="https://github.com/tonysebastine"><img src="assets/github.svg" alt="GitHub" width="32"/></a>
+  <a href="https://github.com/tonysebastine"><img src="assets/svg/github.svg" alt="GitHub" width="32"/></a>
   <!-- Add linkedin.svg and instagram.svg if available -->
   <a href="https://tryhackme.com/p/tonysebastine"><!-- Add tryhackme.svg if available --></a>
 </p>
