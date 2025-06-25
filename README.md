@@ -9,71 +9,69 @@ Tony Sebastian | Full-Stack Developer | AI Automation | Cybersecurity | Open Sou
 
 ### Frontend
 <p align="left">
-  <img src="https://cdn.simpleicons.org/html5" alt="HTML5" width="32" height="32"/>
-  <img src="https://cdn.simpleicons.org/next-dot-js" alt="Next.js" width="32" height="32"/>
-  <img src="https://cdn.simpleicons.org/tailwindcss" alt="Tailwind CSS" width="32" height="32"/>
+  <img src="assets/html5.svg" alt="HTML5" width="32" height="32"/>
+  <img src="assets/nextjs.svg" alt="Next.js" width="32" height="32"/>
+  <img src="assets/tailwindcss.svg" alt="Tailwind CSS" width="32" height="32"/>
 </p>
 
 ### Backend
 <p align="left">
-  <img src="https://cdn.simpleicons.org/node-dot-js" alt="Node.js" width="32" height="32"/>
-  <img src="https://cdn.simpleicons.org/express" alt="Express" width="32" height="32"/>
-  <img src="https://cdn.simpleicons.org/php" alt="PHP" width="32" height="32"/>
-  <img src="https://cdn.simpleicons.org/laravel" alt="Laravel" width="32" height="32"/>
-  <img src="https://cdn.simpleicons.org/codeigniter" alt="CodeIgniter" width="32" height="32"/>
+  <img src="assets/nodejs.svg" alt="Node.js" width="32" height="32"/>
+  <img src="assets/express.svg" alt="Express" width="32" height="32"/>
+  <img src="assets/php.svg" alt="PHP" width="32" height="32"/>
+  <img src="assets/laravel.svg" alt="Laravel" width="32" height="32"/>
+  <img src="assets/codeigniter.svg" alt="CodeIgniter" width="32" height="32"/>
 </p>
 
 ### Databases
 <p align="left">
-  <img src="https://cdn.simpleicons.org/mongodb" alt="MongoDB" width="32" height="32"/>
-  <img src="https://cdn.simpleicons.org/mysql" alt="MySQL" width="32" height="32"/>
-  <img src="https://cdn.simpleicons.org/supabase" alt="Supabase" width="32" height="32"/>
+  <img src="assets/mongodb.svg" alt="MongoDB" width="32" height="32"/>
+  <img src="assets/mysql.svg" alt="MySQL" width="32" height="32"/>
+  <img src="assets/supabase.svg" alt="Supabase" width="32" height="32"/>
 </p>
 
 ### DevOps & Tools
 <p align="left">
-  <img src="https://cdn.simpleicons.org/docker" alt="Docker" width="32" height="32"/>
-  <img src="https://cdn.simpleicons.org/nginx" alt="Nginx" width="32" height="32"/>
-  <img src="https://cdn.simpleicons.org/apache" alt="Apache" width="32" height="32"/>
-  <img src="https://cdn.simpleicons.org/github" alt="GitHub" width="32" height="32"/>
-  <img src="https://cdn.simpleicons.org/vscode" alt="VS Code" width="32" height="32"/>
-  <img src="https://cdn.simpleicons.org/zsh" alt="zsh" width="32" height="32"/>
+  <img src="assets/docker.svg" alt="Docker" width="32" height="32"/>
+  <img src="assets/nginx.svg" alt="Nginx" width="32" height="32"/>
+  <img src="assets/apache.svg" alt="Apache" width="32" height="32"/>
+  <img src="assets/github.svg" alt="GitHub" width="32" height="32"/>
+  <img src="assets/vscode.svg" alt="VS Code" width="32" height="32"/>
+  <img src="assets/zsh.svg" alt="zsh" width="32" height="32"/>
   ![WhatsApp Automation](https://img.shields.io/badge/WhatsApp%20Automation-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-  ![LilyGO + CC1101](https://img.shields.io/badge/LilyGO%20%2B%20CC1101-007ACC?style=for-the-badge)
+  <img src="assets/espressif.svg" alt="Espressif (LilyGO + CC1101)" width="32" height="32"/>
 </p>
 
 ### Operating Systems
 <p align="left">
-  <img src="https://cdn.simpleicons.org/kalilinux" alt="Kali Linux" width="32" height="32"/>
-  <img src="https://cdn.simpleicons.org/debian" alt="Debian" width="32" height="32"/>
-  <img src="https://cdn.simpleicons.org/windows" alt="Windows" width="32" height="32"/>
-  <img src="https://cdn.simpleicons.org/apple" alt="macOS" width="32" height="32"/>
+  <img src="assets/kalilinux.svg" alt="Kali Linux" width="32" height="32"/>
+  <img src="assets/debian.svg" alt="Debian" width="32" height="32"/>
+  <img src="assets/windows.svg" alt="Windows" width="32" height="32"/>
+  <img src="assets/apple.svg" alt="macOS" width="32" height="32"/>
+  <img src="centos.svg" alt="CentOS" width="32" height="32"/>
+  <img src="almalinux.svg" alt="AlmaLinux" width="32" height="32"/>
+  <img src="aapanel.svg" alt="aaPanel" width="32" height="32"/>
 </p>
 
 ### Security & Pentesting
 <p align="left">
-  <img src="https://cdn.simpleicons.org/owasp" alt="OWASP" width="32" height="32"/>
-  <img src="https://cdn.simpleicons.org/nmap" alt="Nmap" width="32" height="32"/>
-  <img src="https://cdn.simpleicons.org/tryhackme" alt="TryHackMe" width="32" height="32"/>
+  <img src="assets/owasp.svg" alt="OWASP" width="32" height="32"/>
+  <img src="assets/nmap.svg" alt="Nmap" width="32" height="32"/>
+  <!-- Add tryhackme.svg if available -->
 </p>
 
 ### AI & Automation
 <p align="left">
-  <img src="https://cdn.simpleicons.org/openai" alt="OpenAI" width="32" height="32"/>
-  <img src="https://cdn.simpleicons.org/githubcopilot" alt="GitHub Copilot" width="32" height="32"/>
-  <img src="https://cdn.simpleicons.org/python" alt="Python" width="32" height="32"/>
-  ![DeepSeek](https://img.shields.io/badge/DeepSeek-4B8DF8?style=for-the-badge)
-  ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge)
-  ![Bolt](https://img.shields.io/badge/Bolt-FFEB3B?style=for-the-badge)
-  ![Cursor](https://img.shields.io/badge/Cursor-00B8D9?style=for-the-badge)
+  <img src="assets/openai.svg" alt="OpenAI" width="32" height="32"/>
+  <img src="assets/python.svg" alt="Python" width="32" height="32"/>
+  <!-- Add other AI tool SVGs if available -->
 </p>
 
 ### Social & Community
 <p align="left">
-  <a href="https://github.com/tonysebastine"><img src="https://cdn.simpleicons.org/github" alt="GitHub" width="32"/></a>
-  <a href="https://linkedin.com/in/tonysebastine"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="32"/></a>
-  <a href="https://instagram.com/thb_tz"><img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="32"/></a>
-  <a href="https://tryhackme.com/p/tonysebastine"><img src="https://cdn.simpleicons.org/tryhackme" alt="TryHackMe" width="32"/></a>
+  <a href="https://github.com/tonysebastine"><img src="assets/github.svg" alt="GitHub" width="32"/></a>
+  <!-- Add linkedin.svg and instagram.svg if available -->
+  <a href="https://tryhackme.com/p/tonysebastine"><!-- Add tryhackme.svg if available --></a>
 </p>
 
 ---
@@ -84,13 +82,7 @@ Tony Sebastian | Full-Stack Developer | AI Automation | Cybersecurity | Open Sou
 
 <!-- AI & Dev Tool Logos -->
 <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
-  <img src="assets/githubcopilot-original.svg" alt="GitHub Copilot Logo" width="40" height="40">
-  <img src="assets/openai-original.svg" alt="OpenAI Logo" width="40" height="40">
-  <img src="assets/google-gemini.png" alt="Google Gemini Logo" width="40" height="40">
-  <img src="assets/deepseek.svg" alt="DeepSeek Logo" width="40" height="40">
-  <img src="assets/cursor-original.svg" alt="Cursor Logo" width="40" height="40">
-  <img src="assets/bolt-original.svg" alt="Bolt Logo" width="40" height="40">
-  <img src="assets/vscode-original.svg" alt="VS Code Logo" width="40" height="40">
+  <!-- Add local SVGs for Copilot, OpenAI, Gemini, DeepSeek, Cursor, Bolt, VS Code if available -->
 </p>
 
 ---
