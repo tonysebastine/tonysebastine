@@ -57,24 +57,23 @@ Tony Sebastian | Full-Stack Developer | AI Automation | Cybersecurity | Open Sou
 <p align="left">
   <img src="assets/svg/owasp.svg" alt="OWASP" width="32" height="32"/>
   <img src="assets/svg/nmap.svg" alt="Nmap" width="32" height="32"/>
-  <!-- Add tryhackme.svg if available -->
+  
 </p>
 
 ### AI & Automation
 <p align="left">
   <img src="assets/svg/openai.svg" alt="OpenAI" width="32" height="32"/>
   <img src="assets/svg/python.svg" alt="Python" width="32" height="32"/>
-  <!-- Add other AI tool SVGs if available -->
+ 
 </p>
 
 ### Social & Community
 <p align="left">
   <a href="https://github.com/tonysebastine"><img src="assets/svg/github.svg" alt="GitHub" width="32"/></a>
-  <!-- Add linkedin.svg and instagram.svg if available -->
-  <a href="https://tryhackme.com/p/tonysebastine"><!-- Add tryhackme.svg if available --></a>
-</p>
+  
+  <a href="https://tryhackme.com/p/tonysebastine"></a>
+</p> -->
 
---- -->
 
 # 👋 Hey, I'm Tony Sebastian (tonysebastine)
 
