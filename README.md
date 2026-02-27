@@ -118,7 +118,7 @@ An AI-driven pentesting platform with:
 
 ## 🔎 GitHub Highlights
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=tonysebastine&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=tonysebastine&theme=cobalt&hide_border=true&exclude_days=Sun)](https://git.io/streak-stats)
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tonysebastine&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- Modern look with theme control. For reliability, consider self-hosting these widgets. -->
