@@ -42,15 +42,28 @@ Tony Sebastian | Full-Stack Developer | Cybersecurity | AI Automation | Open Sou
 
 ---
 
+### 🔮 // FLAGSHIP_PROJECT: OPENSENTINEL
+
+An advanced, self-hostable AI-driven penetration testing platform engineered for automated reconnaissance and dynamic vulnerability reporting.
+
+* **Hybrid Engine:** Combines automated Nmap network mapping and OWASP ZAP web scans.
+* **LLM Integration:** Harnesses advanced AI models to parse scan data and generate executive-ready remediation documentation.
+* **Dual Interface:** Fully secured web dashboard backed by MongoDB/Supabase auth alongside a comprehensive CLI companion.
+
+🔗 **[Explore Repository →](https://github.com/tonysebastine/OpenSentinel)**
+
+---
 
 ### 📊 // TELEMETRY & STATS
 
 <div align="center">
 
-<p>
-  <img src="https://github-stats-extended.vercel.app/api?username=tonysebastine&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=tonysebastine&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+<table>
+  <tr>
+    <td align="center"><img src="https://github-stats-extended.vercel.app/api?username=tonysebastine&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats" /></td>
+    <td align="center"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=tonysebastine&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /></td>
+  </tr>
+</table>
 
 <p>
   <img src="https://streak-stats.demolab.com?user=tonysebastine&theme=tokyonight&hide_border=true&exclude_days=Sun" alt="GitHub Streak" />
