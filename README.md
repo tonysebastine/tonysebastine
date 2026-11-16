@@ -1,175 +1,73 @@
 <!--
 Tony Sebastian | Full-Stack Developer | AI Automation | Cybersecurity | Open Source | Next.js | Node.js | AI Tools | Kerala | Portfolio | GitHub Profile | OpenSentinel | Automation | Security | Deep Learning | NLP | Prompt Engineering
 -->
-![Header](assets/header.png)
 
-<!-- ---
+<div align="center">
 
-## 🛠️ Tech Stack & Tools
+# 👋 Hey, I'm Tony Sebastian (`tonysebastine`)
 
-### Frontend
-<p align="left">
-  <img src="assets/svg/html5.svg" alt="HTML5" width="32" height="32"/>
-  <img src="assets/svg/nextjs.svg" alt="Next.js" width="32" height="32"/>
-  <img src="assets/svg/tailwindcss.svg" alt="Tailwind CSS" width="32" height="32"/>
-</p>
+**Full‑Stack Web Developer | Cybersecurity Enthusiast | AI‑Powered Maker**  
+*Building secure, scalable web applications and intelligent automation systems from Kochi, Kerala.*
 
-### Backend
-<p align="left">
-  <img src="assets/svg/nodejs.svg" alt="Node.js" width="32" height="32"/>
-  <img src="assets/svg/express.svg" alt="Express" width="32" height="32"/>
-  <img src="assets/svg/php.svg" alt="PHP" width="32" height="32"/>
-  <img src="assets/svg/laravel.svg" alt="Laravel" width="32" height="32"/>
-  <img src="assets/svg/codeigniter.svg" alt="CodeIgniter" width="32" height="32"/>
-</p>
+[![Website](https://img.shields.io/badge/Website-thbz.in-00F?style=for-the-badge&logo=google-chrome&logoColor=white)](https://thbz.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-tonysebastine-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tonysebastine)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-tonysebastine-1CB5E0?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/tonysebastine)
 
-### Databases
-<p align="left">
-  <img src="assets/svg/mongodb.svg" alt="MongoDB" width="32" height="32"/>
-  <img src="assets/svg/mysql.svg" alt="MySQL" width="32" height="32"/>
-  <img src="assets/svg/supabase.svg" alt="Supabase" width="32" height="32"/>
-</p>
-
-### DevOps & Tools
-<p align="left">
-  <img src="assets/svg/docker.svg" alt="Docker" width="32" height="32"/>
-  <img src="assets/svg/nginx.svg" alt="Nginx" width="32" height="32"/>
-  <img src="assets/svg/apache.svg" alt="Apache" width="32" height="32"/>
-  <img src="assets/svg/github.svg" alt="GitHub" width="32" height="32"/>
-  <img src="assets/svg/vscode.svg" alt="VS Code" width="32" height="32"/>
-  <img src="assets/svg/zsh.svg" alt="zsh" width="32" height="32"/>
-  ![WhatsApp Automation](https://img.shields.io/badge/WhatsApp%20Automation-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-  <img src="assets/svg/espressif.svg" alt="Espressif (LilyGO + CC1101)" width="32" height="32"/>
-</p>
-
-### Operating Systems
-<p align="left">
-  <img src="assets/svg/kalilinux.svg" alt="Kali Linux" width="32" height="32"/>
-  <img src="assets/svg/debian.svg" alt="Debian" width="32" height="32"/>
-  <img src="assets/svg/windows.svg" alt="Windows" width="32" height="32"/>
-  <img src="assets/svg/apple.svg" alt="macOS" width="32" height="32"/>
-  <img src="assets/svg/centos.svg" alt="CentOS" width="32" height="32"/>
-  <img src="assets/svg/almalinux.svg" alt="AlmaLinux" width="32" height="32"/>
-  <img src="assets/svg/aapanel.svg" alt="aaPanel" width="32" height="32"/>
-</p>
-
-### Security & Pentesting
-<p align="left">
-  <img src="assets/svg/owasp.svg" alt="OWASP" width="32" height="32"/>
-  <img src="assets/svg/nmap.svg" alt="Nmap" width="32" height="32"/>
-  
-</p>
-
-### AI & Automation
-<p align="left">
-  <img src="assets/svg/openai.svg" alt="OpenAI" width="32" height="32"/>
-  <img src="assets/svg/python.svg" alt="Python" width="32" height="32"/>
- 
-</p>
-
-### Social & Community
-<p align="left">
-  <a href="https://github.com/tonysebastine"><img src="assets/svg/github.svg" alt="GitHub" width="32"/></a>
-  
-  <a href="https://tryhackme.com/p/tonysebastine"></a>
-</p> -->
-
-
-# 👋 Hey, I'm Tony Sebastian (tonysebastine)
-
-**Full‑Stack Web Developer | Cybersecurity Enthusiast | AI‑Powered Maker**
-
-<!-- AI & Dev Tool Logos -->
-<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
-  <!-- Add local SVGs for Copilot, OpenAI, Gemini, DeepSeek, Cursor, Bolt, VS Code if available -->
-</p>
+</div>
 
 ---
 
-## 💬 About Me
-Self‑taught full‑stack developer and cybersecurity nerd from Kochi, Kerala. I build secure, AI‑driven automation tools and full-stack web solutions. Former Technical Support & Network Engineer with real-world server experience.
+## 💻 About Me
+
+I am a self-taught full-stack developer and cybersecurity nerd based in Kochi, Kerala. With a strong background in technical support, network engineering, and system administration, I specialize in engineering secure infrastructure, automated deployment workflows, and AI-driven pentesting tools.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Ecosystem
 
-- **Frontend:** HTML, Next.js, Tailwind CSS  
-- **Backend:** Node.js/Express, PHP (Laravel, CodeIgniter)  
-- **Databases:** MongoDB Atlas, MySQL  
-- **AI & Tools:** Copilot, Gemini, ChatGPT, DeepSeek, Cursor, Bolt, VS Code  
-- **Hosting:** cPanel, Plesk, Apache/Nginx, VPS/Dedicated  
-- **OS & Shell:** Kali, Debian, Windows, macOS, zsh  
-- **Security/Ops:** PHP‑FPM tuning, `top`, OWASP ZAP/Nmap  
-- **Experimental:** LilyGO + CC1101 (IoT radio modules for wireless experiments), WhatsApp automation
+- **Frontend & Web:** Next.js, HTML5, Tailwind CSS, JavaScript/TypeScript
+- **Backend & APIs:** Node.js, Express, PHP (Laravel, CodeIgniter), WHMCS Automation
+- **Databases & Storage:** MongoDB Atlas, MySQL, Supabase, PostgreSQL
+- **Security & Ops:** Kali Linux, Debian, Proxmox VE, Docker, Apache/Nginx, ModSecurity, WAF, Tailscale VPN
+- **AI & Developer Tooling:** Copilot, Gemini, ChatGPT, DeepSeek, Cursor, VS Code, Zsh
 
 ---
 
-## 🚀 Main Project: OpenSentinel
-An AI-driven pentesting platform with:
-- Hybrid scans (Nmap + ZAP)
-- Web UI + CLI
-- AI-aided reports (Gemini, ChatGPT, DeepSeek)
-- MongoDB & Supabase auth
-- Self-hostable dashboard with role-based access
+## 🚀 Flagship Project: OpenSentinel
 
-[🔗 OpenSentinel Repository](https://github.com/tonysebastine/OpenSentinel)
+**OpenSentinel** is an advanced, self-hostable AI-driven penetration testing platform designed for streamlined security assessments.
+
+- **Hybrid Scanning:** Integrates Nmap and OWASP ZAP automated scans.
+- **AI-Aided Insights:** Leverages LLMs (Gemini, ChatGPT, DeepSeek) to parse findings and draft remediation reports.
+- **Role-Based Access Control:** Secure web interface backed by MongoDB and Supabase auth, alongside a robust CLI.
+
+🔗 [Explore the OpenSentinel Repository](https://github.com/tonysebastine/OpenSentinel)
 
 ---
 
-## 🔎 GitHub Highlights
+## 📊 GitHub Stats & Highlights
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=tonysebastine&theme=cobalt&hide_border=true&exclude_days=Sun)](https://git.io/streak-stats)
+<div align="center">
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=tonysebastine&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400" alt="Tony's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonysebastine&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
+
+<p>
+  <img src="https://streak-stats.demolab.com?user=tonysebastine&theme=cobalt&hide_border=true&exclude_days=Sun" alt="GitHub Streak" />
+</p>
+
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tonysebastine&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<!-- Modern look with theme control. For reliability, consider self-hosting these widgets. -->
+</div>
 
 ---
 
-## ⚙️ CI & Coverage
+## 📬 Connect & Collaborate
 
-[![CI Build Status](https://img.shields.io/github/actions/workflow/status/tonysebastine/OpenSentinel/ci.yml?branch=main&label=CI%20Build&style=for-the-badge&logo=github)](https://github.com/tonysebastine/OpenSentinel/actions)
-[![Coverage Status](https://img.shields.io/github/actions/workflow/status/tonysebastine/OpenSentinel/coverage.yml?branch=main&label=Coverage&style=for-the-badge&logo=coverage)](https://github.com/tonysebastine/OpenSentinel/actions)
-
----
-
-## 🌐 Portfolio & Connect
-
-- **Website:** [thbtz.in](https://thbtz.in)
+- **Website:** [thbz.in](https://thbz.in)
+- **Email:** `tony [at] thbz [dot] in`
 - **LinkedIn:** [linkedin.com/in/tonysebastine](https://www.linkedin.com/in/tonysebastine)
-- **TryHackMe:** [tryhackme.com/p/tonysebastine](https://tryhackme.com/p/tonysebastine)
-- **Open to:** Freelance work, collaborations, and mentoring
 
----
-
-## 📊 Profile & Visitor Stats
-
-[![Tony's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonysebastine&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400)](https://github.com/tonysebastine)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonysebastine&layout=compact&theme=dark&hide_border=true)](https://github.com/tonysebastine)
-
-[![Profile Views](https://komarev.com/ghpvc/?username=tonysebastine&style=flat-square)](https://github.com/tonysebastine)
-
----
-
-## 🤖 Fun AI Fact
-
-Did you know?
-I regularly experiment with the latest AI models and automation tools, integrating them into real-world security and productivity solutions. My projects often combine AI (like Gemini, ChatGPT, DeepSeek) with custom code to create unique, self-hosted platforms. If you're interested in AI-driven automation, let's connect!
-
----
-
-## 📬 Contact
-
-Feel free to reach out for freelance work, collaborations, or just to connect!
-
-- Email: tony [at] thbtz [dot] in
-- LinkedIn: [linkedin.com/in/tonysebastine](https://www.linkedin.com/in/tonysebastine)
-
----
-
-### 🏅 Badges & Achievements
-
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/tonysebastine.png)](https://tryhackme.com/p/tonysebastine)
-
-**"Design with purpose. Code clearly. Secure thoughtfully."**
-
-Thanks for stopping by! 👋
+> *"Design with purpose. Code clearly. Secure thoughtfully."*
