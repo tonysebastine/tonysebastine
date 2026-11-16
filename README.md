@@ -1,114 +1,95 @@
+<!--
+Tony Sebastian | Full-Stack Developer | Cybersecurity | AI Automation | Open Source | Next.js | Node.js | Kerala | Portfolio | GitHub Profile | OpenSentinel
+-->
+
 <div align="center">
 
-# Tony Sebastian
+# ⚡ TONY SEBASTIAN
+### **Full‑Stack Developer & Cybersecurity Researcher**
 
-**Full-Stack Developer · Cybersecurity · AI Automation**
+<p align="center">
+  <code>Kochi, India</code> • 
+  <code>Building AI-Driven Security & Automation Tools</code>
+</p>
 
-Building secure applications, useful tools and reliable infrastructure.
-
-[Website](https://thbz.in) · [GitHub](https://github.com/tonysebastine) · [LinkedIn](https://www.linkedin.com/in/tonysebastine) · [TryHackMe](https://tryhackme.com/p/tonysebastine) · [Email](mailto:tony@thbz.in)
+<p align="center">
+  <a href="https://thbz.in"><img src="https://img.shields.io/badge/🌐_thbz.in-09090b?style=for-the-badge&logo=google-chrome&logoColor=fff&color=18181b" alt="Website"></a>
+  <a href="https://www.linkedin.com/in/tonysebastine"><img src="https://img.shields.io/badge/💼_LinkedIn-09090b?style=for-the-badge&logo=linkedin&logoColor=0A66C2&color=18181b" alt="LinkedIn"></a>
+  <a href="https://tryhackme.com/p/tonysebastine"><img src="https://img.shields.io/badge/🛡️_TryHackMe-09090b?style=for-the-badge&logo=tryhackme&logoColor=1CB5E0&color=18181b" alt="TryHackMe"></a>
+  <a href="mailto:tony@thbz.in"><img src="https://img.shields.io/badge/✉️_Email-09090b?style=for-the-badge&logo=gmail&logoColor=EA4335&color=18181b" alt="Email"></a>
+</p>
 
 </div>
 
 ---
 
-## About
+### 🚀 // CORE PROFILE
 
-I'm a self-taught developer from Kerala, India, with a background in technical support, networking and system administration.
+> *Self-taught full-stack engineer and cybersecurity specialist turning complex infrastructure challenges into secure, automated, and AI-accelerated solutions.*
 
-I work across full-stack development, application security, Linux infrastructure and AI-powered automation. I enjoy turning ideas into practical software, improving how systems are deployed, and making security part of the engineering process.
+---
 
-## Featured projects
+### 🛠️ // SYSTEM_ARCHITECTURE & STACK
 
-### [OpenSentinel](https://github.com/tonysebastine/OpenSentinel) · AI-assisted security assessment
+| Domain | Core Technologies |
+| :--- | :--- |
+| **Frontend & UI** | `Next.js` • `Tailwind CSS` • `HTML5` |
+| **Backend & APIs** | `Node.js` • `Express` • `Laravel` • `PHP` • `WHMCS` |
+| **Data & Storage** | `MongoDB` • `MySQL` • `Supabase` • `PostgreSQL` |
+| **Infrastructure & Ops** | `Docker` • `Proxmox VE` • `Nginx` • `Tailscale VPN` |
+| **Security & Pentesting** | `Kali Linux` • `OWASP ZAP` • `Nmap` • `ModSecurity WAF` |
+| **AI Tooling & Workflow** | `Cursor` • `VS Code` • `Python` • `Gemini / Claude / DeepSeek` |
 
-An open-source security tooling project that combines automated scanning with AI-assisted analysis.
+---
 
-- Nmap and OWASP ZAP integration
-- LLM-assisted finding analysis and remediation guidance
-- Web interface and CLI companion
+### 🔮 // FLAGSHIP_PROJECT: OPENSENTINEL
 
-### [ALFA Panel](https://github.com/tonysebastine/alfa-panel) · Hosting control panel
+An advanced, self-hostable AI-driven penetration testing platform engineered for automated reconnaissance and dynamic vulnerability reporting.
 
-A security-first hosting management platform for Python and Tomcat workloads.
+* **Hybrid Engine:** Combines automated Nmap network mapping and OWASP ZAP web scans.
+* **LLM Integration:** Harnesses advanced AI models to parse scan data and generate executive-ready remediation documentation.
+* **Dual Interface:** Fully secured web dashboard backed by MongoDB/Supabase auth alongside a comprehensive CLI companion.
 
-- Linux host and site management
-- Deployment and backup automation
-- Firewall integration and workload isolation
+🔗 **[Explore Repository →](https://github.com/tonysebastine/OpenSentinel)**
 
-### SpotGuard · Binance Spot strategy research
+---
 
-A private research project focused on strategy testing and risk evaluation before deployment.
-
-- Historical market data and backtesting
-- Strategy comparison and performance analysis
-- Paper-trading and testnet-first approach
-
-## Technology
-
-**Development**  
-`Next.js` · `React` · `Node.js` · `Express` · `JavaScript` · `Python` · `Go` · `PHP` · `Laravel` · `Tailwind CSS`
-
-**Databases & services**  
-`MongoDB` · `MySQL` · `PostgreSQL` · `Supabase` · `WHMCS`
-
-**Infrastructure**  
-`Linux` · `Docker` · `Proxmox` · `Nginx` · `Cloudflare` · `Tailscale` · `Git`
-
-**Security & AI**  
-`Kali Linux` · `Nmap` · `OWASP ZAP` · `Ollama` · `Cursor` · `VS Code`
-
-## GitHub activity
-
-<sub>Automatically generated from public GitHub activity and stored in this repository. The metrics images are refreshed by GitHub Actions.</sub>
+### 📊 // TELEMETRY & STATS
 
 <div align="center">
 
-<img src="./metrics-overview.svg" alt="GitHub profile overview and activity metrics" width="100%" />
+<p>
+  <img src="https://github-stats-extended.vercel.app/api?username=tonysebastine&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=tonysebastine&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p>
+  <img src="https://streak-stats.demolab.com?user=tonysebastine&theme=tokyonight&hide_border=true&exclude_days=Sun" alt="GitHub Streak" />
+</p>
+
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tonysebastine&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+</p>
 
 </div>
 
-<details>
-<summary><strong>Contribution calendar</strong></summary>
+---
 
-<br/>
-
-<img src="./metrics-contributions.svg" alt="Yearly GitHub contribution calendar" width="100%" />
-
-</details>
-
-<details>
-<summary><strong>Languages and community</strong></summary>
-
-<br/>
-
-<img src="./metrics-languages.svg" alt="Programming language distribution" width="100%" />
-
-<br/>
-
-<img src="./metrics-community.svg" alt="GitHub community activity and achievements" width="100%" />
-
-</details>
-
-<details>
-<summary><strong>Recent activity patterns</strong></summary>
-
-<br/>
-
-<img src="./metrics-habits.svg" alt="Recent GitHub activity patterns" width="100%" />
-
-<sub>This reflects GitHub events, not editor or IDE time tracking.</sub>
-
-</details>
-
-## Get in touch
-
-Open to interesting engineering challenges, freelance work, security-focused projects and open-source collaboration.
-
-**[thbz.in](https://thbz.in)** · **[LinkedIn](https://www.linkedin.com/in/tonysebastine)** · **[TryHackMe](https://tryhackme.com/p/tonysebastine)** · **[tony@thbz.in](mailto:tony@thbz.in)**
+### 📬 // INITIATE_CONTACT
 
 <div align="center">
 
-*Build thoughtfully. Engineer securely. Keep learning.*
+*Ready to collaborate on security tooling, infrastructure architecture, or high-performance web applications?*
+
+**[🌐 Visit thbz.in](https://thbz.in)** • **[💼 Connect on LinkedIn](https://www.linkedin.com/in/tonysebastine)** • **[✉️ Send an Email](mailto:tony@thbz.in)**
+
+<br>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tonysebastine&style=for-the-badge&color=18181b&label=PROFILE+VIEWS" alt="Visitor Count Badge" />
+</p>
+
+<br>
+<sub><i>"Design with purpose. Code clearly. Secure thoughtfully."</i></sub>
 
 </div>
