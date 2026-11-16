@@ -45,7 +45,7 @@ The workflow then refreshes the images daily at 00:17 UTC (05:47 India Standard 
 - Account, repository, community, and metadata summaries
 - Recent public GitHub activity and follow-up of issues/pull requests
 - Issue and pull-request follow-up ratios, plus GitHub achievements
-- Isometric contribution calendar
+- Isometric commit calendar with current streak and average commits per day
 - Programming-language distribution across public repositories
 - Recent GitHub activity patterns and coding-habit estimates
 
