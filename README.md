@@ -170,11 +170,11 @@ Hands-on experimentation with local language models and automation patterns for 
 </details>
 
 <details>
-<summary><strong>▸ Contribution calendar · yearly activity</strong></summary>
+<summary><strong>▸ Commit calendar · yearly activity</strong></summary>
 
 <br/>
 
-<img src="./metrics-contributions.svg" alt="Isometric GitHub contribution calendar" width="100%" />
+<img src="./metrics-contributions.svg" alt="Isometric GitHub commit calendar" width="100%" />
 
 </details>
 
