@@ -1,0 +1,92 @@
+name: Refresh profile analytics
+
+on:
+  # Daily at 00:17 UTC / 05:47 Asia/Kolkata.
+  schedule:
+    - cron: "17 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-analytics
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    name: Generate GitHub profile metrics
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    permissions:
+      contents: write
+
+    steps:
+      - name: Generate account overview
+        uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # v3.34
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: tonysebastine
+          filename: metrics-overview.svg
+          template: terminal
+          config_timezone: Asia/Kolkata
+          base: header, activity, community, repositories, metadata
+          plugins_errors_fatal: no
+
+      - name: Generate community metrics and achievements
+        if: ${{ !cancelled() }}
+        uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # v3.34
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: tonysebastine
+          filename: metrics-community.svg
+          template: classic
+          config_timezone: Asia/Kolkata
+          base: ""
+          plugin_achievements: yes
+          plugin_followup: yes
+          plugins_errors_fatal: no
+
+      - name: Generate yearly contribution calendar
+        if: ${{ !cancelled() }}
+        uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # v3.34
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: tonysebastine
+          filename: metrics-contributions.svg
+          template: terminal
+          config_timezone: Asia/Kolkata
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugins_errors_fatal: no
+
+      - name: Generate language distribution
+        if: ${{ !cancelled() }}
+        uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # v3.34
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: tonysebastine
+          filename: metrics-languages.svg
+          template: terminal
+          config_timezone: Asia/Kolkata
+          base: ""
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugins_errors_fatal: no
+
+      - name: Generate recent activity patterns
+        if: ${{ !cancelled() }}
+        uses: lowlighter/metrics@65836723097537a54cd8eb90f61839426b4266b6 # v3.34
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: tonysebastine
+          filename: metrics-habits.svg
+          template: classic
+          config_timezone: Asia/Kolkata
+          base: ""
+          plugin_habits: yes
+          plugin_habits_days: 30
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          plugins_errors_fatal: no
