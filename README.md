@@ -5,7 +5,7 @@ Tony Sebastian | Full-Stack Developer | Cybersecurity | AI Automation | Open Sou
 <div align="center">
 
 # ⚡ TONY SEBASTIAN
-### **Full‑Stack Developer & Cybersecurity Researcher**
+### Full-Stack Developer • Cybersecurity Researcher • AI Automation Engineer
 
 <p align="center">
   <code>Kochi, India</code> • 
@@ -23,13 +23,24 @@ Tony Sebastian | Full-Stack Developer | Cybersecurity | AI Automation | Open Sou
 
 ---
 
-### 🚀 // CORE PROFILE
+### 🚀 // ABOUT
 
-> *Self-taught full-stack engineer and cybersecurity specialist turning complex infrastructure challenges into secure, automated, and AI-accelerated solutions.*
+> Self-taught full-stack engineer and cybersecurity specialist turning complex infrastructure challenges into secure, automated, and AI-accelerated solutions.
+
+> Currently building autonomous security tooling, secure platform architecture, and AI-assisted workflows for modern digital environments.
 
 ---
 
-### 🛠️ // SYSTEM_ARCHITECTURE & STACK
+### 🧠 // CORE FOCUS
+
+- Full-stack product engineering and scalable web application development
+- Cybersecurity research, offensive/defensive workflows, and secure architecture
+- AI-driven automation for reconnaissance, reporting, and operational efficiency
+- Infrastructure design, deployment hardening, and self-hosted systems
+
+---
+
+### 🛠️ // TECH STACK
 
 | Domain | Core Technologies |
 | :--- | :--- |
@@ -42,19 +53,21 @@ Tony Sebastian | Full-Stack Developer | Cybersecurity | AI Automation | Open Sou
 
 ---
 
-### 🔮 // FLAGSHIP_PROJECT: OPENSENTINEL
+### 🔮 // FEATURED PROJECT
+
+#### OpenSentinel
 
 An advanced, self-hostable AI-driven penetration testing platform engineered for automated reconnaissance and dynamic vulnerability reporting.
 
-* **Hybrid Engine:** Combines automated Nmap network mapping and OWASP ZAP web scans.
-* **LLM Integration:** Harnesses advanced AI models to parse scan data and generate executive-ready remediation documentation.
-* **Dual Interface:** Fully secured web dashboard backed by MongoDB/Supabase auth alongside a comprehensive CLI companion.
+- Hybrid engine combining Nmap network discovery with OWASP ZAP vulnerability scanning
+- AI-assisted analysis for actionable remediation and executive-ready reporting
+- Secure dashboard and CLI-based workflows for operational use cases
 
 🔗 **[Explore Repository →](https://github.com/tonysebastine/OpenSentinel)**
 
 ---
 
-### 📊 // TELEMETRY & STATS
+### 📊 // GITHUB TELEMETRY
 
 <div align="center">
 
@@ -77,7 +90,7 @@ An advanced, self-hostable AI-driven penetration testing platform engineered for
 
 ---
 
-### 📬 // INITIATE_CONTACT
+### 📬 // INITIATE CONTACT
 
 <div align="center">
 
