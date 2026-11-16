@@ -42,17 +42,6 @@ Tony Sebastian | Full-Stack Developer | Cybersecurity | AI Automation | Open Sou
 
 ---
 
-### 🔮 // FLAGSHIP_PROJECT: OPENSENTINEL
-
-An advanced, self-hostable AI-driven penetration testing platform engineered for automated reconnaissance and dynamic vulnerability reporting.
-
-* **Hybrid Engine:** Combines automated Nmap network mapping and OWASP ZAP web scans.
-* **LLM Integration:** Harnesses advanced AI models to parse scan data and generate executive-ready remediation documentation.
-* **Dual Interface:** Fully secured web dashboard backed by MongoDB/Supabase auth alongside a comprehensive CLI companion.
-
-🔗 **[Explore Repository →](https://github.com/tonysebastine/OpenSentinel)**
-
----
 
 ### 📊 // TELEMETRY & STATS
 
