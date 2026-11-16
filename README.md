@@ -1,225 +1,114 @@
 <div align="center">
 
-<img src="https://github.com/tonysebastine.png?size=240" width="112" alt="Tony Sebastian GitHub avatar" />
+# Tony Sebastian
 
-# TONY SEBASTIAN
+**Full-Stack Developer · Cybersecurity · AI Automation**
 
-### FULL-STACK DEVELOPER · CYBERSECURITY · AI AUTOMATION
+Building secure applications, useful tools and reliable infrastructure.
 
-Building secure applications, practical security tools, and reliable infrastructure.
-
-[Portfolio](https://thbz.in) · [GitHub](https://github.com/tonysebastine) · [LinkedIn](https://www.linkedin.com/in/tonysebastine) · [TryHackMe](https://tryhackme.com/p/tonysebastine) · [Email](mailto:tony@thbz.in)
-
-<code>BUILD WITH PURPOSE</code> &nbsp; <code>SECURE BY DESIGN</code> &nbsp; <code>AUTOMATE THE REPEATABLE</code>
+[Website](https://thbz.in) · [GitHub](https://github.com/tonysebastine) · [LinkedIn](https://www.linkedin.com/in/tonysebastine) · [TryHackMe](https://tryhackme.com/p/tonysebastine) · [Email](mailto:tony@thbz.in)
 
 </div>
 
 ---
 
-<table>
-<tr>
-<td width="58%" valign="top">
+## About
 
-## PROFILE / 01
+I'm a self-taught developer from Kerala, India, with a background in technical support, networking and system administration.
 
-I'm **Tony Sebastian**, a self-taught developer from Kerala, India, with a background in technical support, networking, and system administration.
+I work across full-stack development, application security, Linux infrastructure and AI-powered automation. I enjoy turning ideas into practical software, improving how systems are deployed, and making security part of the engineering process.
 
-I work across full-stack development, application security, Linux infrastructure, and AI-powered automation. I enjoy taking projects from an initial idea through implementation, deployment, and hardening.
+## Featured projects
 
-My approach is practical: understand the system, make it useful, keep it maintainable, and design security into the process.
+### [OpenSentinel](https://github.com/tonysebastine/OpenSentinel) · AI-assisted security assessment
 
-</td>
-<td width="42%" valign="top">
-
-## OPERATIONAL FOCUS
-
-- **Application engineering** — web apps, APIs, integrations
-- **Security engineering** — assessment, secure design, remediation
-- **Infrastructure** — Linux, networking, virtualization, hosting
-- **AI & automation** — local LLMs, agents, repeatable workflows
-- **Open source** — useful tools and engineering experiments
-
-</td>
-</tr>
-</table>
-
-## FEATURED BUILDS / 02
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🛡️ OpenSentinel
-
-**AI-assisted security assessment platform**
-
-An open-source security tooling project combining automated scanning with LLM-assisted finding analysis.
+An open-source security tooling project that combines automated scanning with AI-assisted analysis.
 
 - Nmap and OWASP ZAP integration
-- AI-assisted vulnerability interpretation
-- Findings and remediation reporting
+- LLM-assisted finding analysis and remediation guidance
 - Web interface and CLI companion
 
-[Explore repository ↗](https://github.com/tonysebastine/OpenSentinel)
+### [ALFA Panel](https://github.com/tonysebastine/alfa-panel) · Hosting control panel
 
-</td>
-<td width="50%" valign="top">
+A security-first hosting management platform for Python and Tomcat workloads.
 
-### ⚙️ ALFA Panel
-
-**Security-first hosting control panel**
-
-A hosting control-plane project focused on secure deployment and isolated workloads for Python and Tomcat applications.
-
-- Linux host management and site lifecycle
+- Linux host and site management
 - Deployment and backup automation
-- Firewall and access-control integration
-- Container isolation and reverse-proxy integration
+- Firewall integration and workload isolation
 
-[Explore repository ↗](https://github.com/tonysebastine/alfa-panel)
+### SpotGuard · Binance Spot strategy research
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+A private research project focused on strategy testing and risk evaluation before deployment.
 
-### 📊 SpotGuard
+- Historical market data and backtesting
+- Strategy comparison and performance analysis
+- Paper-trading and testnet-first approach
 
-**Binance Spot strategy research**
+## Technology
 
-A private research project exploring systematic spot strategies with an emphasis on validation before deployment.
+**Development**  
+`Next.js` · `React` · `Node.js` · `Express` · `JavaScript` · `Python` · `Go` · `PHP` · `Laravel` · `Tailwind CSS`
 
-- Historical market-data analysis
-- Strategy backtesting and comparison
-- Risk and performance evaluation
-- Paper-trading / testnet-first approach
+**Databases & services**  
+`MongoDB` · `MySQL` · `PostgreSQL` · `Supabase` · `WHMCS`
 
-<sub>Private repository · Research and simulation</sub>
+**Infrastructure**  
+`Linux` · `Docker` · `Proxmox` · `Nginx` · `Cloudflare` · `Tailscale` · `Git`
 
-</td>
-<td width="50%" valign="top">
+**Security & AI**  
+`Kali Linux` · `Nmap` · `OWASP ZAP` · `Ollama` · `Cursor` · `VS Code`
 
-### 🧠 Local AI Lab
+## GitHub activity
 
-**AI workflows and developer automation**
-
-Hands-on experimentation with local language models and automation patterns for practical engineering tasks.
-
-- Local LLM inference
-- AI-assisted development workflows
-- Security automation concepts
-- Agent and tool integrations
-
-<sub>Ongoing experiments</sub>
-
-</td>
-</tr>
-</table>
-
-## ENGINEERING STACK / 03
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**APPLICATION DEVELOPMENT**
-
-`Next.js` `React` `Node.js` `Express` `JavaScript` `Python` `Go` `PHP` `Laravel` `HTML` `CSS` `Tailwind CSS`
-
-**DATABASES & SERVICES**
-
-`MongoDB` `MySQL` `PostgreSQL` `Supabase` `WHMCS`
-
-</td>
-<td width="50%" valign="top">
-
-**INFRASTRUCTURE & DELIVERY**
-
-`Linux` `Docker` `Proxmox VE` `Nginx` `Cloudflare` `Tailscale` `Git` `GitHub`
-
-**SECURITY & AI TOOLING**
-
-`Kali Linux` `Nmap` `OWASP ZAP` `Ollama` `Cursor` `VS Code`
-
-</td>
-</tr>
-</table>
-
----
-
-## LIVE GITHUB TELEMETRY / 04
-
-<sub>Automatically generated from public GitHub activity. Images are committed to this repository by the scheduled workflow, rather than loaded from third-party stats hosts.</sub>
-
-<details open>
-<summary><strong>▸ Account overview, repositories, community and achievements</strong></summary>
-
-<br/>
-
-<img src="./metrics-overview.svg" alt="GitHub account overview, repository and community metrics" width="100%" />
-
-</details>
-
-<details>
-<summary><strong>▸ Community metrics · issues, pull requests and achievements</strong></summary>
-
-<br/>
-
-<img src="./metrics-community.svg" alt="Issue and pull request follow-up statistics and GitHub achievements" width="100%" />
-
-</details>
-
-<details>
-<summary><strong>▸ Commit calendar · yearly activity</strong></summary>
-
-<br/>
-
-<img src="./metrics-contributions.svg" alt="Isometric GitHub commit calendar" width="100%" />
-
-</details>
-
-<details>
-<summary><strong>▸ Language distribution</strong></summary>
-
-<br/>
-
-<img src="./metrics-languages.svg" alt="Most-used programming languages across public repositories" width="100%" />
-
-</details>
-
-<details>
-<summary><strong>▸ Coding habits · recent GitHub activity patterns</strong></summary>
-
-<br/>
-
-<img src="./metrics-habits.svg" alt="Recent GitHub activity habits and patterns" width="100%" />
-
-<sub>Activity patterns are inferred from GitHub events. They are not a measurement of time spent in an editor or IDE.</sub>
-
-</details>
-
-<sub>Metrics refresh daily at approximately 05:47 India Standard Time (UTC+05:30), after the workflow is configured. You can also trigger an update manually from the Actions tab.</sub>
-
----
-
-## CURRENT FOCUS / 05
-
-| Track | Current direction |
-|:--|:--|
-| **Application security** | Secure-by-design development, vulnerability assessment, remediation |
-| **Hosting infrastructure** | Linux, virtualization, isolation, backup and deployment automation |
-| **AI engineering** | Local LLMs, agent workflows and practical automation |
-| **Full-stack development** | Maintainable web applications, APIs and integrations |
-| **Open source** | Building and refining tools that solve real engineering problems |
-
-## CONNECT / 06
-
-Interested in useful engineering challenges, security-focused development, infrastructure projects, and open-source collaboration.
+<sub>Automatically generated from public GitHub activity and stored in this repository. The metrics images are refreshed by GitHub Actions.</sub>
 
 <div align="center">
 
-[thbz.in](https://thbz.in) · [GitHub](https://github.com/tonysebastine) · [LinkedIn](https://www.linkedin.com/in/tonysebastine) · [TryHackMe](https://tryhackme.com/p/tonysebastine) · [tony@thbz.in](mailto:tony@thbz.in)
+<img src="./metrics-overview.svg" alt="GitHub profile overview and activity metrics" width="100%" />
 
-**Design thoughtfully. Engineer securely. Keep learning.**
+</div>
+
+<details>
+<summary><strong>Contribution calendar</strong></summary>
+
+<br/>
+
+<img src="./metrics-contributions.svg" alt="Yearly GitHub contribution calendar" width="100%" />
+
+</details>
+
+<details>
+<summary><strong>Languages and community</strong></summary>
+
+<br/>
+
+<img src="./metrics-languages.svg" alt="Programming language distribution" width="100%" />
+
+<br/>
+
+<img src="./metrics-community.svg" alt="GitHub community activity and achievements" width="100%" />
+
+</details>
+
+<details>
+<summary><strong>Recent activity patterns</strong></summary>
+
+<br/>
+
+<img src="./metrics-habits.svg" alt="Recent GitHub activity patterns" width="100%" />
+
+<sub>This reflects GitHub events, not editor or IDE time tracking.</sub>
+
+</details>
+
+## Get in touch
+
+Open to interesting engineering challenges, freelance work, security-focused projects and open-source collaboration.
+
+**[thbz.in](https://thbz.in)** · **[LinkedIn](https://www.linkedin.com/in/tonysebastine)** · **[TryHackMe](https://tryhackme.com/p/tonysebastine)** · **[tony@thbz.in](mailto:tony@thbz.in)**
+
+<div align="center">
+
+*Build thoughtfully. Engineer securely. Keep learning.*
 
 </div>
