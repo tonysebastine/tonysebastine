@@ -56,12 +56,16 @@ Self-taught full-stack developer and cybersecurity nerd based in Kochi, Kerala. 
 <div align="center">
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=tonysebastine&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400" alt="Tony's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonysebastine&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=tonysebastine&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400" alt="Tony's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=tonysebastine&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
 <p>
   <img src="https://streak-stats.demolab.com?user=tonysebastine&theme=cobalt&hide_border=true&exclude_days=Sun" alt="GitHub Streak" />
+</p>
+
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tonysebastine&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </p>
 
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tonysebastine&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
