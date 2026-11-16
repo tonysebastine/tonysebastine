@@ -1,17 +1,20 @@
 <!--
-Tony Sebastian | Full-Stack Developer | AI Automation | Cybersecurity | Open Source | Next.js | Node.js | AI Tools | Kerala | Portfolio | GitHub Profile | OpenSentinel | Automation | Security | Deep Learning | NLP | Prompt Engineering
+Tony Sebastian | Full-Stack Developer | Cybersecurity | AI Automation | Open Source | Next.js | Node.js | Kerala | Portfolio | GitHub Profile | OpenSentinel
 -->
 
 <div align="center">
 
 # 👋 Hey, I'm Tony Sebastian (`tonysebastine`)
 
-**Full‑Stack Web Developer | Cybersecurity Enthusiast | AI‑Powered Maker**  
-*Building secure, scalable web applications and intelligent automation systems from Kochi, Kerala.*
+**Full‑Stack Web Developer | Cybersecurity Enthusiast | AI‑Driven Automation Maker**  
+*Building secure, scalable web applications and intelligent security tools from Kochi, Kerala.*
 
-[![Website](https://img.shields.io/badge/Website-thbz.in-00F?style=for-the-badge&logo=google-chrome&logoColor=white)](https://thbz.in)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-tonysebastine-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tonysebastine)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-tonysebastine-1CB5E0?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/tonysebastine)
+<p align="center">
+  <a href="https://thbz.in"><img src="https://img.shields.io/badge/Website-thbz.in-00F?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
+  <a href="https://www.linkedin.com/in/tonysebastine"><img src="https://img.shields.io/badge/LinkedIn-tonysebastine-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://tryhackme.com/p/tonysebastine"><img src="https://img.shields.io/badge/TryHackMe-tonysebastine-1CB5E0?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"></a>
+  <a href="mailto:tony@thbz.in"><img src="https://img.shields.io/badge/Email-tony%40thbz.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
 </div>
 
@@ -19,29 +22,32 @@ Tony Sebastian | Full-Stack Developer | AI Automation | Cybersecurity | Open Sou
 
 ## 💻 About Me
 
-I am a self-taught full-stack developer and cybersecurity nerd based in Kochi, Kerala. With a strong background in technical support, network engineering, and system administration, I specialize in engineering secure infrastructure, automated deployment workflows, and AI-driven pentesting tools.
+Self-taught full-stack developer and cybersecurity nerd based in Kochi, Kerala. With a strong background in technical support, network engineering, and system administration, I specialize in engineering secure server infrastructure, automated deployment workflows, and AI-powered penetration testing platforms.
 
 ---
 
 ## 🛠️ Tech Stack & Ecosystem
 
-- **Frontend & Web:** Next.js, HTML5, Tailwind CSS, JavaScript/TypeScript
-- **Backend & APIs:** Node.js, Express, PHP (Laravel, CodeIgniter), WHMCS Automation
-- **Databases & Storage:** MongoDB Atlas, MySQL, Supabase, PostgreSQL
-- **Security & Ops:** Kali Linux, Debian, Proxmox VE, Docker, Apache/Nginx, ModSecurity, WAF, Tailscale VPN
-- **AI & Developer Tooling:** Copilot, Gemini, ChatGPT, DeepSeek, Cursor, VS Code, Zsh
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Frontend & Web** | ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
+| **Backend & APIs** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![WHMCS](https://img.shields.io/badge/WHMCS-1A1F2C?style=flat-square&logo=whmcs&logoColor=white) |
+| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) |
+| **DevOps & Infrastructure** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Tailscale](https://img.shields.io/badge/Tailscale-FFFFFF?style=flat-square&logo=tailscale&logoColor=black) |
+| **Security & Pentesting** | ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white) ![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-000?style=flat-square&logo=owasp&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-000?style=flat-square&logo=nmap&logoColor=white) |
+| **AI & Workflow** | ![Cursor](https://img.shields.io/badge/Cursor-000?style=flat-square&logo=cursor&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 
 ---
 
 ## 🚀 Flagship Project: OpenSentinel
 
-**OpenSentinel** is an advanced, self-hostable AI-driven penetration testing platform designed for streamlined security assessments.
+**OpenSentinel** is an advanced, self-hostable AI-driven penetration testing platform designed to streamline security assessments.
 
-- **Hybrid Scanning:** Integrates Nmap and OWASP ZAP automated scans.
-- **AI-Aided Insights:** Leverages LLMs (Gemini, ChatGPT, DeepSeek) to parse findings and draft remediation reports.
-- **Role-Based Access Control:** Secure web interface backed by MongoDB and Supabase auth, alongside a robust CLI.
+* **Hybrid Scanning:** Integrates Nmap and OWASP ZAP automated scans.
+* **AI-Aided Insights:** Leverages LLMs (Gemini, ChatGPT, DeepSeek) to parse findings and draft remediation reports.
+* **Access Control:** Secure web interface backed by MongoDB and Supabase auth, featuring a robust CLI companion.
 
-🔗 [Explore the OpenSentinel Repository](https://github.com/tonysebastine/OpenSentinel)
+🔗 [Explore OpenSentinel Repository](https://github.com/tonysebastine/OpenSentinel)
 
 ---
 
@@ -66,8 +72,10 @@ I am a self-taught full-stack developer and cybersecurity nerd based in Kochi, K
 
 ## 📬 Connect & Collaborate
 
-- **Website:** [thbz.in](https://thbz.in)
-- **Email:** `tony [at] thbz [dot] in`
-- **LinkedIn:** [linkedin.com/in/tonysebastine](https://www.linkedin.com/in/tonysebastine)
+Feel free to reach out for freelance work, security audits, technical collaborations, or consulting!
+
+* **Website:** [thbz.in](https://thbz.in)
+* **Email:** `tony [at] thbz [dot] in`
+* **LinkedIn:** [linkedin.com/in/tonysebastine](https://www.linkedin.com/in/tonysebastine)
 
 > *"Design with purpose. Code clearly. Secure thoughtfully."*
