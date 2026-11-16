@@ -1,253 +1,225 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,45:312E81,100:06B6D4&height=210&section=header&text=TONY%20SEBASTIAN&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=BUILD%20%E2%80%A2%20SECURE%20%E2%80%A2%20AUTOMATE&descSize=15&descAlignY=60&animation=fadeIn" width="100%" />
+<img src="https://github.com/tonysebastine.png?size=240" width="112" alt="Tony Sebastian GitHub avatar" />
 
-# `> hello, world!` 👋
+# TONY SEBASTIAN
 
-### Tony Sebastian · `@tonysebastine`
+### FULL-STACK DEVELOPER · CYBERSECURITY · AI AUTOMATION
 
-**Full-Stack Developer | Cybersecurity | AI & Automation**
+Building secure applications, practical security tools, and reliable infrastructure.
 
-*I build things that work, systems that scale, and tools that make technology more secure.*
+[Portfolio](https://thbz.in) · [GitHub](https://github.com/tonysebastine) · [LinkedIn](https://www.linkedin.com/in/tonysebastine) · [TryHackMe](https://tryhackme.com/p/tonysebastine) · [Email](mailto:tony@thbz.in)
 
-📍 Kerala, India
-
-<p>
-  <a href="https://thbz.in">
-    <img src="https://img.shields.io/badge/PORTFOLIO-thbz.in-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  </a>
-  <a href="https://github.com/tonysebastine">
-    <img src="https://img.shields.io/badge/GITHUB-tonysebastine-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/tonysebastine">
-    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:tony@thbz.in">
-    <img src="https://img.shields.io/badge/EMAIL-LET'S_TALK-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=tonysebastine&label=PROFILE%20VIEWS&color=06B6D4&style=flat-square" />
+<code>BUILD WITH PURPOSE</code> &nbsp; <code>SECURE BY DESIGN</code> &nbsp; <code>AUTOMATE THE REPEATABLE</code>
 
 </div>
 
 ---
 
-## `$ whoami`
+<table>
+<tr>
+<td width="58%" valign="top">
 
-```yaml
-name: Tony Sebastian
-username: tonysebastine
-location: Kerala, India
+## PROFILE / 01
 
-identity:
-  - Full-Stack Developer
-  - Cybersecurity Enthusiast
-  - AI Automation Builder
-  - Open Source Contributor
+I'm **Tony Sebastian**, a self-taught developer from Kerala, India, with a background in technical support, networking, and system administration.
 
-interests:
-  - Secure application development
-  - Linux & server infrastructure
-  - Application security and penetration testing
-  - AI-powered tools and automation
-  - Open source engineering
+I work across full-stack development, application security, Linux infrastructure, and AI-powered automation. I enjoy taking projects from an initial idea through implementation, deployment, and hardening.
 
-philosophy: "Build with purpose. Secure by design."
-````
+My approach is practical: understand the system, make it useful, keep it maintainable, and design security into the process.
 
-I'm a self-taught developer with a background in technical support, networking, and system administration.
+</td>
+<td width="42%" valign="top">
 
-My interests sit at the intersection of **software engineering, infrastructure security, and artificial intelligence**.
+## OPERATIONAL FOCUS
 
-I enjoy going beyond building applications. I like understanding how systems work, finding where they break, improving their security, and automating the repetitive things.
+- **Application engineering** — web apps, APIs, integrations
+- **Security engineering** — assessment, secure design, remediation
+- **Infrastructure** — Linux, networking, virtualization, hosting
+- **AI & automation** — local LLMs, agents, repeatable workflows
+- **Open source** — useful tools and engineering experiments
 
----
+</td>
+</tr>
+</table>
 
-## `$ ls ./featured-projects`
+## FEATURED BUILDS / 02
 
-Things I'm building, experimenting with, and improving.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-\<table>
-\<tr>
-\<td width="50%" valign="top">
+### 🛡️ OpenSentinel
 
-\<h3>🛡️ OpenSentinel\</h3>
+**AI-assisted security assessment platform**
 
-**AI-Assisted Security Assessment Platform**
-
-An open-source project focused on simplifying security assessments through automated scanning and AI-assisted analysis.
+An open-source security tooling project combining automated scanning with LLM-assisted finding analysis.
 
 - Nmap and OWASP ZAP integration
-- LLM-assisted vulnerability analysis
+- AI-assisted vulnerability interpretation
 - Findings and remediation reporting
 - Web interface and CLI companion
 
-\<a href="[https://github.com/tonysebastine/OpenSentinel](https://github.com/tonysebastine/OpenSentinel)">
-&#x20; \<img src="[https://img.shields.io/badge/EXPLORE_PROJECT-OpenSentinel-06B6D4?style=for-the-badge&logo=github](https://img.shields.io/badge/EXPLORE_PROJECT-OpenSentinel-06B6D4?style=for-the-badge\&logo=github)"/>
-\</a>
+[Explore repository ↗](https://github.com/tonysebastine/OpenSentinel)
 
-\</td>
-\<td width="50%" valign="top">
+</td>
+<td width="50%" valign="top">
 
-\<h3>⚙️ ALFA Panel\</h3>
+### ⚙️ ALFA Panel
 
-**Security-First Hosting Control Panel**
+**Security-first hosting control panel**
 
-Building a lightweight hosting management platform designed around secure deployments and isolated workloads.
+A hosting control-plane project focused on secure deployment and isolated workloads for Python and Tomcat applications.
 
-- Linux hosting infrastructure
-- Python and Tomcat workloads
+- Linux host management and site lifecycle
 - Deployment and backup automation
-- Firewall and security integration
-- Modern management interface
+- Firewall and access-control integration
+- Container isolation and reverse-proxy integration
 
-\<sub>🚧 In development\</sub>
+[Explore repository ↗](https://github.com/tonysebastine/alfa-panel)
 
-\<a href="[https://github.com/tonysebastine/alfa-panel](https://github.com/tonysebastine/alfa-panel)">
-&#x20; \<img src="[https://img.shields.io/badge/PROJECT-ALFA_PANEL-7C3AED?style=for-the-badge&logo=github](https://img.shields.io/badge/PROJECT-ALFA_PANEL-7C3AED?style=for-the-badge\&logo=github)"/>
-\</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-\</td>
-\</tr>
-\<tr>
-\<td width="50%" valign="top">
+### 📊 SpotGuard
 
-\<h3>📈 SpotGuard\</h3>
+**Binance Spot strategy research**
 
-**Binance Spot Strategy Research**
+A private research project exploring systematic spot strategies with an emphasis on validation before deployment.
 
-Exploring systematic trading strategies with an emphasis on testing, risk management, and validation before deployment.
+- Historical market-data analysis
+- Strategy backtesting and comparison
+- Risk and performance evaluation
+- Paper-trading / testnet-first approach
 
-- Historical market data analysis
-- Strategy backtesting
-- Performance and risk evaluation
-- Paper trading and testnet-first approach
+<sub>Private repository · Research and simulation</sub>
 
-\<sub>🧪 Research & simulation\</sub>
+</td>
+<td width="50%" valign="top">
 
-\<a href="[https://github.com/tonysebastine/SpotGuard](https://github.com/tonysebastine/SpotGuard)">
-&#x20; \<img src="[https://img.shields.io/badge/PROJECT-SpotGuard-16A34A?style=for-the-badge&logo=github](https://img.shields.io/badge/PROJECT-SpotGuard-16A34A?style=for-the-badge\&logo=github)"/>
-\</a>
+### 🧠 Local AI Lab
 
-\</td>
-\<td width="50%" valign="top">
+**AI workflows and developer automation**
 
-\<h3>🧠 AI & Automation\</h3>
+Hands-on experimentation with local language models and automation patterns for practical engineering tasks.
 
-**Practical AI Engineering**
-
-Experimenting with local LLMs, intelligent workflows, and automation tools that solve real-world technical problems.
-
-- Local AI model experimentation
-- LLM-powered workflows
+- Local LLM inference
+- AI-assisted development workflows
 - Security automation concepts
-- Developer productivity tools
+- Agent and tool integrations
 
-\<sub>🔬 Ongoing exploration\</sub>
+<sub>Ongoing experiments</sub>
 
-\<a href="[https://github.com/tonysebastine](https://github.com/tonysebastine)">
-&#x20; \<img src="[https://img.shields.io/badge/EXPLORE-GITHUB-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/EXPLORE-GITHUB-181717?style=for-the-badge\&logo=github)"/>
-\</a>
+</td>
+</tr>
+</table>
 
-\</td>
-\</tr>
-\</table>
+## ENGINEERING STACK / 03
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## `$ cat tech-stack.json`
+**APPLICATION DEVELOPMENT**
 
-### Development
+`Next.js` `React` `Node.js` `Express` `JavaScript` `Python` `Go` `PHP` `Laravel` `HTML` `CSS` `Tailwind CSS`
 
-\<p>
-\<img src="[https://skillicons.dev/icons?i=nextjs,react,nodejs,express,ts,js,python,go,php,laravel,html,css,tailwind&perline=7](https://skillicons.dev/icons?i=nextjs,react,nodejs,express,ts,js,python,go,php,laravel,html,css,tailwind\&perline=7)"/>
-\</p>
+**DATABASES & SERVICES**
 
-### Databases & Backend Services
+`MongoDB` `MySQL` `PostgreSQL` `Supabase` `WHMCS`
 
-\<p>
-\<img src="[https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase&perline=7](https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase\&perline=7)"/>
-\</p>
+</td>
+<td width="50%" valign="top">
 
-### Infrastructure & DevOps
+**INFRASTRUCTURE & DELIVERY**
 
-\<p>
-\<img src="[https://skillicons.dev/icons?i=linux,docker,nginx,cloudflare,github,git,proxmox&perline=7](https://skillicons.dev/icons?i=linux,docker,nginx,cloudflare,github,git,proxmox\&perline=7)"/>
-\</p>
+`Linux` `Docker` `Proxmox VE` `Nginx` `Cloudflare` `Tailscale` `Git` `GitHub`
 
-### Security & Research
+**SECURITY & AI TOOLING**
 
-\<p>
-\<img src="[https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square\&logo=kalilinux\&logoColor=white)"/>
-\<img src="[https://img.shields.io/badge/Nmap-2E5D7B?style=flat-square](https://img.shields.io/badge/Nmap-2E5D7B?style=flat-square)"/>
-\<img src="[https://img.shields.io/badge/OWASP_ZAP-000000?style=flat-square&logo=owasp&logoColor=white](https://img.shields.io/badge/OWASP_ZAP-000000?style=flat-square\&logo=owasp\&logoColor=white)"/>
-\<img src="[https://img.shields.io/badge/Tailscale-FFFFFF?style=flat-square&logo=tailscale&logoColor=black](https://img.shields.io/badge/Tailscale-FFFFFF?style=flat-square\&logo=tailscale\&logoColor=black)"/>
-\<img src="[https://img.shields.io/badge/Networking-0F766E?style=flat-square](https://img.shields.io/badge/Networking-0F766E?style=flat-square)"/>
-\<img src="[https://img.shields.io/badge/AppSec-7C3AED?style=flat-square](https://img.shields.io/badge/AppSec-7C3AED?style=flat-square)"/>
-\</p>
+`Kali Linux` `Nmap` `OWASP ZAP` `Ollama` `Cursor` `VS Code`
 
-### AI & Developer Workflow
-
-\<p> \<img src="[https://skillicons.dev/icons?i=python,vscode,git,github&perline=7](https://skillicons.dev/icons?i=python,vscode,git,github\&perline=7)"/> \<img src="[https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white](https://img.shields.io/badge/Cursor-000000?style=flat-square\&logo=cursor\&logoColor=white)"/> \<img src="[https://img.shields.io/badge/Ollama-FFFFFF?style=flat-square&logo=ollama&logoColor=black](https://img.shields.io/badge/Ollama-FFFFFF?style=flat-square\&logo=ollama\&logoColor=black)"/> \</p>
+</td>
+</tr>
+</table>
 
 ---
 
-## `$ git status --short`
+## LIVE GITHUB TELEMETRY / 04
 
-### Current Areas of Focus
+<sub>Automatically generated from public GitHub activity. Images are committed to this repository by the scheduled workflow, rather than loaded from third-party stats hosts.</sub>
 
-| Area                       | What I'm exploring                              |
-| :------------------------- | :---------------------------------------------- |
-| 🔐 Application Security    | Secure coding, vulnerability assessment, AppSec |
-| 🖥️ Infrastructure         | Linux, Proxmox, networking, hosting automation  |
-| 🤖 Artificial Intelligence | Local LLMs, AI agents, intelligent automation   |
-| 🚀 Full-Stack Engineering  | Modern web applications and backend systems     |
-| 🧪 Open Source             | Building practical tools and sharing knowledge  |
+<details open>
+<summary><strong>▸ Account overview, repositories, community and achievements</strong></summary>
+
+<br/>
+
+<img src="./metrics-overview.svg" alt="GitHub account overview, repository and community metrics" width="100%" />
+
+</details>
+
+<details>
+<summary><strong>▸ Community metrics · issues, pull requests and achievements</strong></summary>
+
+<br/>
+
+<img src="./metrics-community.svg" alt="Issue and pull request follow-up statistics and GitHub achievements" width="100%" />
+
+</details>
+
+<details>
+<summary><strong>▸ Contribution calendar · yearly activity</strong></summary>
+
+<br/>
+
+<img src="./metrics-contributions.svg" alt="Isometric GitHub contribution calendar" width="100%" />
+
+</details>
+
+<details>
+<summary><strong>▸ Language distribution</strong></summary>
+
+<br/>
+
+<img src="./metrics-languages.svg" alt="Most-used programming languages across public repositories" width="100%" />
+
+</details>
+
+<details>
+<summary><strong>▸ Coding habits · recent GitHub activity patterns</strong></summary>
+
+<br/>
+
+<img src="./metrics-habits.svg" alt="Recent GitHub activity habits and patterns" width="100%" />
+
+<sub>Activity patterns are inferred from GitHub events. They are not a measurement of time spent in an editor or IDE.</sub>
+
+</details>
+
+<sub>Metrics refresh daily at approximately 05:47 India Standard Time (UTC+05:30), after the workflow is configured. You can also trigger an update manually from the Actions tab.</sub>
 
 ---
 
-## `$ ./github-activity.sh`
+## CURRENT FOCUS / 05
 
-\<div align="center">
+| Track | Current direction |
+|:--|:--|
+| **Application security** | Secure-by-design development, vulnerability assessment, remediation |
+| **Hosting infrastructure** | Linux, virtualization, isolation, backup and deployment automation |
+| **AI engineering** | Local LLMs, agent workflows and practical automation |
+| **Full-stack development** | Maintainable web applications, APIs and integrations |
+| **Open source** | Building and refining tools that solve real engineering problems |
 
-\<img width="49%" src="[https://github-readme-stats.vercel.app/api?username=tonysebastine&show_icons=true&hide_border=true&bg_color=09090B&title_color=06B6D4&icon_color=7C3AED&text_color=E4E4E7&rank_icon=github](https://github-readme-stats.vercel.app/api?username=tonysebastine\&show_icons=true\&hide_border=true\&bg_color=09090B\&title_color=06B6D4\&icon_color=7C3AED\&text_color=E4E4E7\&rank_icon=github)" />
+## CONNECT / 06
 
-\<img width="49%" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=tonysebastine&layout=compact&hide_border=true&bg_color=09090B&title_color=06B6D4&text_color=E4E4E7](https://github-readme-stats.vercel.app/api/top-langs/?username=tonysebastine\&layout=compact\&hide_border=true\&bg_color=09090B\&title_color=06B6D4\&text_color=E4E4E7)" />
+Interested in useful engineering challenges, security-focused development, infrastructure projects, and open-source collaboration.
 
-\<img width="70%" src="[https://streak-stats.demolab.com?user=tonysebastine&theme=transparent&hide_border=true&ring=06B6D4&fire=7C3AED&currStreakLabel=06B6D4](https://streak-stats.demolab.com?user=tonysebastine\&theme=transparent\&hide_border=true\&ring=06B6D4\&fire=7C3AED\&currStreakLabel=06B6D4)" />
+<div align="center">
 
-\<img width="100%" src="[https://github-readme-activity-graph.vercel.app/graph?username=tonysebastine&bg_color=09090B&color=06B6D4&line=7C3AED&point=FFFFFF&area=true&hide_border=true](https://github-readme-activity-graph.vercel.app/graph?username=tonysebastine\&bg_color=09090B\&color=06B6D4\&line=7C3AED\&point=FFFFFF\&area=true\&hide_border=true)" />
+[thbz.in](https://thbz.in) · [GitHub](https://github.com/tonysebastine) · [LinkedIn](https://www.linkedin.com/in/tonysebastine) · [TryHackMe](https://tryhackme.com/p/tonysebastine) · [tony@thbz.in](mailto:tony@thbz.in)
 
-\</div>
+**Design thoughtfully. Engineer securely. Keep learning.**
 
----
-
-## `$ connect --with-tony`
-
-I'm open to interesting engineering challenges, freelance opportunities, security-focused collaborations, and open-source contributions.
-
-\<p align="center">
-&#x20; \<a href="[https://thbz.in](https://thbz.in)">
-&#x20;   \<img src="[https://img.shields.io/badge/🌐\_PORTFOLIO-thbz.in-06B6D4?style=for-the-badge](https://img.shields.io/badge/🌐_PORTFOLIO-thbz.in-06B6D4?style=for-the-badge)"/>
-&#x20; \</a>
-&#x20; \<a href="[https://www.linkedin.com/in/tonysebastine](https://www.linkedin.com/in/tonysebastine)">
-&#x20;   \<img src="[https://img.shields.io/badge/💼\_LINKEDIN-CONNECT-0A66C2?style=for-the-badge](https://img.shields.io/badge/💼_LINKEDIN-CONNECT-0A66C2?style=for-the-badge)"/>
-&#x20; \</a>
-&#x20; \<a href="[https://tryhackme.com/p/tonysebastine](https://tryhackme.com/p/tonysebastine)">
-&#x20;   \<img src="[https://img.shields.io/badge/🎯\_TRYHACKME-PROFILE-DC2626?style=for-the-badge](https://img.shields.io/badge/🎯_TRYHACKME-PROFILE-DC2626?style=for-the-badge)"/>
-&#x20; \</a>
-&#x20; \<a href="mailto\:tony\@thbz.in">
-&#x20;   \<img src="[https://img.shields.io/badge/✉️\_EMAIL-CONTACT-EA4335?style=for-the-badge](https://img.shields.io/badge/✉️_EMAIL-CONTACT-EA4335?style=for-the-badge)"/>
-&#x20; \</a>
-\</p>
-
-\<div align="center">
-
-### `while (alive) { learn(); build(); secure(); repeat(); }`
-
-**Design with purpose. Code clearly. Secure thoughtfully.**
-
-\<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:312E81,100:09090B&height=100&section=footer](https://capsule-render.vercel.app/api?type=waving\&color=0:06B6D4,50:312E81,100:09090B\&height=100\&section=footer)" width="100%"/>
-
-\</div>
+</div>
