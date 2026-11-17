@@ -4,107 +4,71 @@ Tony Sebastian | Full-Stack Developer | Cybersecurity | AI Automation | Open Sou
 
 <div align="center">
 
-# ⚡ TONY SEBASTIAN
-### Full-Stack Developer • Cybersecurity Researcher • AI Automation Engineer
+## ⚡ TONY SEBASTIAN
+<sub><b>Full-Stack Developer</b> • <b>Cybersecurity Researcher</b> • <b>AI Automation Engineer</b> &nbsp;|&nbsp; <code>Kochi, India</code></sub>
 
-<p align="center">
-  <code>Kochi, India</code> • 
-  <code>Building AI-Driven Security & Automation Tools</code>
-</p>
+<br><br>
 
-<p align="center">
-  <a href="https://thbz.in"><img src="https://img.shields.io/badge/🌐_thbz.in-09090b?style=for-the-badge&logo=google-chrome&logoColor=fff&color=18181b" alt="Website"></a>
-  <a href="https://www.linkedin.com/in/tonysebastine"><img src="https://img.shields.io/badge/💼_LinkedIn-09090b?style=for-the-badge&logo=linkedin&logoColor=0A66C2&color=18181b" alt="LinkedIn"></a>
-  <a href="https://tryhackme.com/p/tonysebastine"><img src="https://img.shields.io/badge/🛡️_TryHackMe-09090b?style=for-the-badge&logo=tryhackme&logoColor=1CB5E0&color=18181b" alt="TryHackMe"></a>
-  <a href="mailto:tony@thbz.in"><img src="https://img.shields.io/badge/✉️_Email-09090b?style=for-the-badge&logo=gmail&logoColor=EA4335&color=18181b" alt="Email"></a>
-</p>
+<a href="https://thbz.in"><img src="https://img.shields.io/badge/WEB-thbz.in-18181b?style=flat-square&logo=googlechrome&logoColor=ffffff&labelColor=09090b" alt="Website"></a>
+<a href="https://www.linkedin.com/in/tonysebastine"><img src="https://img.shields.io/badge/LINKEDIN-%2Ftonysebastine-18181b?style=flat-square&labelColor=09090b" alt="LinkedIn"></a>
+<a href="https://tryhackme.com/p/tonysebastine"><img src="https://img.shields.io/badge/TRYHACKME-%2Ftonysebastine-18181b?style=flat-square&logo=tryhackme&logoColor=1CB5E0&labelColor=09090b" alt="TryHackMe"></a>
+<a href="mailto:tony@thbz.in"><img src="https://img.shields.io/badge/EMAIL-tony%40thbz.in-18181b?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=09090b" alt="Email"></a>
+<img src="https://komarev.com/ghpvc/?username=tonysebastine&style=flat-square&color=18181b&labelColor=09090b&label=VIEWS" alt="Profile Views">
 
 </div>
 
----
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <strong><code>// ABOUT &amp; FOCUS</code></strong>
+      <p>Self-taught full-stack engineer and cybersecurity specialist turning complex infrastructure challenges into secure, automated, and AI-accelerated solutions.</p>
+      <ul>
+        <li><b>Engineering:</b> Scalable full-stack web apps &amp; APIs</li>
+        <li><b>Security:</b> Offensive/defensive workflows &amp; hardening</li>
+        <li><b>AI Ops:</b> Automated recon, triage &amp; reporting</li>
+        <li><b>Infra:</b> Virtualization &amp; self-hosted systems</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <strong><code>// FEATURED: OPENSENTINEL</code></strong>
+      <p>Self-hostable, AI-driven penetration testing platform for automated reconnaissance and dynamic vulnerability reporting.</p>
+      <ul>
+        <li>Hybrid <b>Nmap</b> discovery + <b>OWASP ZAP</b> scanning</li>
+        <li>AI-assisted remediation &amp; executive-ready reports</li>
+        <li>Secure web dashboard &amp; operational CLI workflows</li>
+      </ul>
+      <a href="https://github.com/tonysebastine/OpenSentinel">
+        <img src="https://img.shields.io/badge/EXPLORE_OPENSENTINEL_%E2%86%92-09090b?style=flat-square&logo=github&logoColor=ffffff" alt="OpenSentinel">
+      </a>
+    </td>
+  </tr>
+</table>
 
-### 🚀 // ABOUT
-
-> Self-taught full-stack engineer and cybersecurity specialist turning complex infrastructure challenges into secure, automated, and AI-accelerated solutions.
-
-> Currently building autonomous security tooling, secure platform architecture, and AI-assisted workflows for modern digital environments.
-
----
-
-### 🧠 // CORE FOCUS
-
-- Full-stack product engineering and scalable web application development
-- Cybersecurity research, offensive/defensive workflows, and secure architecture
-- AI-driven automation for reconnaissance, reporting, and operational efficiency
-- Infrastructure design, deployment hardening, and self-hosted systems
-
----
-
-### 🛠️ // TECH STACK
-
-| Domain | Core Technologies |
+| `STACK` | Technologies |
 | :--- | :--- |
-| **Frontend & UI** | `Next.js` • `Tailwind CSS` • `HTML5` |
-| **Backend & APIs** | `Node.js` • `Express` • `Laravel` • `PHP` • `WHMCS` |
-| **Data & Storage** | `MongoDB` • `MySQL` • `Supabase` • `PostgreSQL` |
-| **Infrastructure & Ops** | `Docker` • `Proxmox VE` • `Nginx` • `Tailscale VPN` |
-| **Security & Pentesting** | `Kali Linux` • `OWASP ZAP` • `Nmap` • `ModSecurity WAF` |
-| **AI Tooling & Workflow** | `Cursor` • `VS Code` • `Python` • `Gemini / Claude / DeepSeek` |
-
----
-
-### 🔮 // FEATURED PROJECT
-
-#### OpenSentinel
-
-An advanced, self-hostable AI-driven penetration testing platform engineered for automated reconnaissance and dynamic vulnerability reporting.
-
-- Hybrid engine combining Nmap network discovery with OWASP ZAP vulnerability scanning
-- AI-assisted analysis for actionable remediation and executive-ready reporting
-- Secure dashboard and CLI-based workflows for operational use cases
-
-🔗 **[Explore Repository →](https://github.com/tonysebastine/OpenSentinel)**
-
----
-
-### 📊 // GITHUB TELEMETRY
+| **Web & API** | <kbd>Next.js</kbd> <kbd>Tailwind CSS</kbd> <kbd>HTML5</kbd> <kbd>Node.js</kbd> <kbd>Express</kbd> <kbd>Laravel</kbd> <kbd>PHP</kbd> <kbd>WHMCS</kbd> |
+| **Data & Infra** | <kbd>PostgreSQL</kbd> <kbd>Supabase</kbd> <kbd>MongoDB</kbd> <kbd>MySQL</kbd> <kbd>Docker</kbd> <kbd>Proxmox VE</kbd> <kbd>Nginx</kbd> <kbd>Tailscale VPN</kbd> |
+| **Sec & AI** | <kbd>Kali Linux</kbd> <kbd>OWASP ZAP</kbd> <kbd>Nmap</kbd> <kbd>ModSecurity WAF</kbd> <kbd>Python</kbd> <kbd>Cursor</kbd> <kbd>VS Code</kbd> <kbd>Gemini / Claude / DeepSeek</kbd> |
 
 <div align="center">
 
 <table>
   <tr>
-    <td align="center"><img src="https://github-stats-extended.vercel.app/api?username=tonysebastine&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats" /></td>
-    <td align="center"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=tonysebastine&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /></td>
+    <td align="center" width="54%"><img src="https://github-stats-extended.vercel.app/api?username=tonysebastine&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats" /></td>
+    <td align="center" width="46%"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=tonysebastine&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /></td>
   </tr>
 </table>
 
-<p>
+<details>
+  <summary><code>[+] Expand Streak &amp; Contribution Activity Graph</code></summary>
+  <br>
   <img src="https://streak-stats.demolab.com?user=tonysebastine&theme=tokyonight&hide_border=true&exclude_days=Sun" alt="GitHub Streak" />
-</p>
-
-<p>
+  <br><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tonysebastine&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
-</p>
-
-</div>
-
----
-
-### 📬 // INITIATE CONTACT
-
-<div align="center">
-
-*Ready to collaborate on security tooling, infrastructure architecture, or high-performance web applications?*
-
-**[🌐 Visit thbz.in](https://thbz.in)** • **[💼 Connect on LinkedIn](https://www.linkedin.com/in/tonysebastine)** • **[✉️ Send an Email](mailto:tony@thbz.in)**
+</details>
 
 <br>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tonysebastine&style=for-the-badge&color=18181b&label=PROFILE+VIEWS" alt="Visitor Count Badge" />
-</p>
-
-<br>
-<sub><i>"Design with purpose. Code clearly. Secure thoughtfully."</i></sub>
+<sub><i>"Design with purpose. Code clearly. Secure thoughtfully."</i> &nbsp;•&nbsp; <a href="https://thbz.in"><b>thbz.in</b></a> &nbsp;•&nbsp; <a href="https://www.linkedin.com/in/tonysebastine"><b>LinkedIn</b></a> &nbsp;•&nbsp; <a href="mailto:tony@thbz.in"><b>tony@thbz.in</b></a></sub>
 
 </div>
